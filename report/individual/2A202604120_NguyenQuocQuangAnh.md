@@ -1,6 +1,6 @@
 # Báo cáo cá nhân — Data Ingestion Engineering
 
-Họ tên: Nguyễn Quốc Quang Anh. MSSV: 2A202604120. Lớp: L3B. Người hỗ trợ triển khai và đánh giá: Codex. Số nhãn đã được học viên xác nhận được tổng hợp trong bảng audit của báo cáo.
+Họ tên: Nguyễn Quốc Quang Anh. MSSV: 2A202604120. Lớp: L3B.
 
 ## Dữ liệu và pipeline
 
