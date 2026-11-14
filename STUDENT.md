@@ -5,4 +5,4 @@
 - Lớp: L3B
 - Chủ đề và corpus: Luật Thương mại 36/2005/QH11, PDF công bố trên ipvietnam.gov.vn, 83 trang nội dung được tính.
 - Repo bài nộp: https://github.com/QuangAnh28/K5-L3B-DAY06-2A202604120-DataIngestion.git
-- Commit chốt bài:
+- Commit chốt bài: 2f4546f044dc8d697b8f05c1ccc9077a95ab42a9
