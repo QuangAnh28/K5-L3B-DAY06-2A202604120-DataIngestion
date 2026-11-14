@@ -1,0 +1,317 @@
+[
+  {
+    "strategy": "A",
+    "question_id": "q16",
+    "rank": 1,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p25-fixed-800-100-22318a04d303b4ef",
+    "structural_valid": true
+  },
+  {
+    "strategy": "A",
+    "question_id": "q16",
+    "rank": 2,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p28-fixed-800-100-a60e0f196cff6152",
+    "structural_valid": true
+  },
+  {
+    "strategy": "A",
+    "question_id": "q16",
+    "rank": 3,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p25-fixed-800-100-dfbdcce2326ec377",
+    "structural_valid": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q16",
+    "rank": 1,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p25-paragraph-1000-a430d8b2b9e97370",
+    "structural_valid": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q16",
+    "rank": 2,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p28-paragraph-1000-892236c110872f95",
+    "structural_valid": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q16",
+    "rank": 3,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p27-paragraph-1000-5b865424c512ce8d",
+    "structural_valid": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q16",
+    "rank": 1,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p25-paragraph-1000-a430d8b2b9e97370",
+    "structural_valid": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q16",
+    "rank": 2,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p28-paragraph-1000-892236c110872f95",
+    "structural_valid": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q16",
+    "rank": 3,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p27-paragraph-1000-5b865424c512ce8d",
+    "structural_valid": true
+  },
+  {
+    "strategy": "A",
+    "question_id": "q17",
+    "rank": 1,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p74-fixed-800-100-2f3779ed3046c0da",
+    "structural_valid": true
+  },
+  {
+    "strategy": "A",
+    "question_id": "q17",
+    "rank": 2,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p74-fixed-800-100-f28fa7b4c8ebae6e",
+    "structural_valid": true
+  },
+  {
+    "strategy": "A",
+    "question_id": "q17",
+    "rank": 3,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p75-fixed-800-100-27709723d803c9fb",
+    "structural_valid": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q17",
+    "rank": 1,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-95735999306358d6",
+    "structural_valid": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q17",
+    "rank": 2,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p74-paragraph-1000-e551af49a640366a",
+    "structural_valid": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q17",
+    "rank": 3,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-f45ca634948ddc66",
+    "structural_valid": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q17",
+    "rank": 1,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-95735999306358d6",
+    "structural_valid": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q17",
+    "rank": 2,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p74-paragraph-1000-e551af49a640366a",
+    "structural_valid": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q17",
+    "rank": 3,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-f45ca634948ddc66",
+    "structural_valid": true
+  },
+  {
+    "strategy": "A",
+    "question_id": "q18",
+    "rank": 1,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p79-fixed-800-100-3f4e394651d35bf3",
+    "structural_valid": true
+  },
+  {
+    "strategy": "A",
+    "question_id": "q18",
+    "rank": 2,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p78-fixed-800-100-0919d39a0f9c5413",
+    "structural_valid": true
+  },
+  {
+    "strategy": "A",
+    "question_id": "q18",
+    "rank": 3,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p78-fixed-800-100-fa8c59b58743ed2b",
+    "structural_valid": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q18",
+    "rank": 1,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-e20676bf5b7c4e1d",
+    "structural_valid": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q18",
+    "rank": 2,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p78-paragraph-1000-dbde525f36a87242",
+    "structural_valid": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q18",
+    "rank": 3,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-36d656135ced3ca7",
+    "structural_valid": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q18",
+    "rank": 1,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-e20676bf5b7c4e1d",
+    "structural_valid": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q18",
+    "rank": 2,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p78-paragraph-1000-dbde525f36a87242",
+    "structural_valid": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q18",
+    "rank": 3,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-36d656135ced3ca7",
+    "structural_valid": true
+  },
+  {
+    "strategy": "A",
+    "question_id": "q19",
+    "rank": 1,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-be6fd9d00bd363dd",
+    "structural_valid": true
+  },
+  {
+    "strategy": "A",
+    "question_id": "q19",
+    "rank": 2,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-f293a1e60a84222a",
+    "structural_valid": true
+  },
+  {
+    "strategy": "A",
+    "question_id": "q19",
+    "rank": 3,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p8-fixed-800-100-58973d6eef4be94c",
+    "structural_valid": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q19",
+    "rank": 1,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+    "structural_valid": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q19",
+    "rank": 2,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p51-paragraph-1000-6558e399e4947d69",
+    "structural_valid": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q19",
+    "rank": 3,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee",
+    "structural_valid": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q19",
+    "rank": 1,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+    "structural_valid": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q19",
+    "rank": 2,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p51-paragraph-1000-6558e399e4947d69",
+    "structural_valid": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q19",
+    "rank": 3,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee",
+    "structural_valid": true
+  },
+  {
+    "strategy": "A",
+    "question_id": "q20",
+    "rank": 1,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-f293a1e60a84222a",
+    "structural_valid": true
+  },
+  {
+    "strategy": "A",
+    "question_id": "q20",
+    "rank": 2,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p77-fixed-800-100-634ba470d8450066",
+    "structural_valid": true
+  },
+  {
+    "strategy": "A",
+    "question_id": "q20",
+    "rank": 3,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-be6fd9d00bd363dd",
+    "structural_valid": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q20",
+    "rank": 1,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-7c39d75d39d020fb",
+    "structural_valid": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q20",
+    "rank": 2,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+    "structural_valid": true
+  },
+  {
+    "strategy": "B",
+    "question_id": "q20",
+    "rank": 3,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee",
+    "structural_valid": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q20",
+    "rank": 1,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-7c39d75d39d020fb",
+    "structural_valid": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q20",
+    "rank": 2,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+    "structural_valid": true
+  },
+  {
+    "strategy": "C",
+    "question_id": "q20",
+    "rank": 3,
+    "chunk_id": "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee",
+    "structural_valid": true
+  }
+]

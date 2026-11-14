@@ -1,0 +1,34 @@
+{
+  "timestamp": "2026-11-14T09:44:04.532513+00:00",
+  "passed": true,
+  "api_requests": 0,
+  "unit_tests": 11,
+  "checks": [
+    {
+      "script": "test_contracts.py",
+      "exit_code": 0,
+      "output": ".C:\\Users\\Think Pad\\AppData\\Local\\Programs\\Python\\Python314\\Lib\\copy.py:201: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x0000022B22C644F0>\n  for key, value in x.items():\nResourceWarning: Enable tracemalloc to get the object allocation traceback\n.\n----------------------------------------------------------------------\nRan 2 tests in 0.159s\n\nOK\n"
+    },
+    {
+      "script": "test_review_and_logging.py",
+      "exit_code": 0,
+      "output": ".........\n----------------------------------------------------------------------\nRan 9 tests in 1.051s\n\nOK\n"
+    },
+    {
+      "script": "verify_outputs.py",
+      "exit_code": 0,
+      "output": "OK: 60 traces, 20 gold evidence, metrics, B=C chunks, source/page/chapter, filters, audit sizes.\n"
+    },
+    {
+      "script": "review_source_checks.py",
+      "exit_code": 0,
+      "output": "WARN: page 84 has only 13 extracted characters\n{\"timestamp\": \"2026-11-14T09:44:04.115608+00:00\", \"pdf_pages\": 84, \"content_pages\": 83, \"reconstructed_chunks\": {\"A\": 295, \"B\": 245, \"C\": 245}, \"replayed_queries\": 60, \"source_text_matches\": true, \"source_sha256_matches\": true, \"submission_secret_scan_passed\": true, \"api_requests\": 0}\n"
+    }
+  ],
+  "source_check_executed": true,
+  "review_sha256": {
+    "coherence_audit.json": "b2c9253b1b03f59af6b597033086e4ea37992ae4322d87ff11e344207ef24a78",
+    "grounding_audit.json": "b9b3b1d55b133266db2354f742b3bc90588247c853af0f51e27d05ef5f887286",
+    "metadata_audit.json": "15fff124774ba0239431fdb2b6ebc7fe9e8d4d6659b71f9e13fc4b23804d87f5"
+  }
+}

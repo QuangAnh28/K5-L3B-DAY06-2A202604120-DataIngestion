@@ -1,0 +1,228 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Thương nhân chưa đăng ký kinh doanh có còn phải chịu trách nhiệm về hoạt động của mình không?",
+    "expected_answer": "Có, vẫn phải chịu trách nhiệm theo Luật này và quy định khác của pháp luật.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 4,
+    "evidence_quote": "Nghĩa vụ đăng ký kinh doanh của thương nhân Thương nhân có ngh ĩa vụ đăng ký kinh doanh theo quy định của pháp luật. Trường hợp chưa đăng ký kinh doanh, th ương nhân vẫn phải chịu trách nhiệm về mọi hoạt động của mình theo quy định của Luật này và quy định khác c ủa pháp luật.",
+    "filter": {},
+    "article": 7
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Nguyên tắc bình đẳng áp dụng thế nào với thương nhân thuộc các thành phần kinh tế?",
+    "expected_answer": "Mọi thành phần kinh tế bình đẳng trước pháp luật trong hoạt động thương mại.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 4,
+    "evidence_quote": "Nguyên tắc bình đẳng trước pháp lu ật của th ương nhân trong hoạt động thương mại Thương nhân thuộc mọi thành phần kinh tế bình đẳng trước pháp luật trong hoạt động thương mại.",
+    "filter": {},
+    "article": 10
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Khi nào thông điệp dữ liệu có giá trị pháp lý tương đương văn bản?",
+    "expected_answer": "Khi đáp ứng các điều kiện và tiêu chuẩn kỹ thuật theo quy định pháp luật.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 5,
+    "evidence_quote": "Nguyên t ắc th ừa nh ận giá tr ị pháp lý c ủa thông điệp d ữ li ệu trong hoạt động thương mại Trong hoạt động thương mại, các thông điệp dữ liệu đáp ứng các điều kiện, tiêu chuẩn kỹ thuật theo quy định của pháp luật thì được thừa nhận có giá trị pháp lý tương đương văn bản.",
+    "filter": {},
+    "article": 15
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Văn phòng đại diện có được hoạt động sinh lợi trực tiếp tại Việt Nam không?",
+    "expected_answer": "Không được thực hiện hoạt động sinh lợi trực tiếp tại Việt Nam.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 6,
+    "evidence_quote": "1. Không được thực hiện hoạt động sinh lợi trực tiếp tại Việt Nam.",
+    "filter": {},
+    "article": 18
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Trong phạm vi Chương II, hợp đồng mua bán hàng hóa có những hình thức nào?",
+    "expected_answer": "Lời nói, văn bản hoặc hành vi cụ thể.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 8,
+    "evidence_quote": "1. H ợp đồng mua bán hàng hoá được thể hiện bằng lời nói, b ằng văn bản hoặc được xác lập bằng hành vi cụ thể.",
+    "filter": {
+      "chapter": "Chương Ii"
+    },
+    "article": 24
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Mua bán hàng hóa quốc tế phải dựa trên hợp đồng có hình thức nào?",
+    "expected_answer": "Văn bản hoặc hình thức khác có giá trị pháp lý tương đương.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 9,
+    "evidence_quote": "2. Mua bán hàng hoá quốc tế phải được thực hiện trên cơ sở hợp đồng bằng văn bản hoặc bằng hình thức khác có giá trị pháp lý tương đương.",
+    "filter": {},
+    "article": 27
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Nếu đã thỏa thuận địa điểm giao hàng, bên bán phải giao ở đâu?",
+    "expected_answer": "Đúng địa điểm đã thỏa thuận.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 11,
+    "evidence_quote": "1. Bên bán có nghĩa vụ giao hàng đúng địa điểm đã thoả thuận.",
+    "filter": {},
+    "article": 35
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "Chỉ thỏa thuận thời hạn mà không chốt thời điểm giao hàng: bên bán được giao thế nào?",
+    "expected_answer": "Bất kỳ thời điểm nào trong thời hạn đó và phải thông báo trước cho bên mua.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 12,
+    "evidence_quote": "2. Trường hợp chỉ có thỏa thuận về thời hạn giao hàng mà không xác định thời điểm giao hàng c ụ thể thì bên bán có quy ền giao hàng vào b ất kỳ thời điểm nào trong thời hạn đó và phải thông báo trước cho bên mua.",
+    "filter": {},
+    "article": 37
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Nghĩa vụ cơ bản của bên mua về thanh toán và nhận hàng là gì?",
+    "expected_answer": "Thanh toán tiền mua hàng và nhận hàng theo thỏa thuận.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 15,
+    "evidence_quote": "1. Bên mua có ngh ĩa vụ thanh toán ti ền mua hàng và nh ận hàng theo th ỏa thuận.",
+    "filter": {},
+    "article": 50
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Nếu không có thỏa thuận khác, khi nào bên mua phải thanh toán cho bên bán?",
+    "expected_answer": "Khi bên bán giao hàng hoặc giao chứng từ liên quan đến hàng hóa.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 16,
+    "evidence_quote": "Thời hạn thanh toán Trừ trường hợp có thoả thuận khác, thời hạn thanh toán được quy định như sau:\n\n1. Bên mua ph ải thanh toán cho bên bán vào th ời điểm bên bán giao hàng hoặc giao chứng từ liên quan đến hàng hoá;",
+    "filter": {},
+    "article": 55
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Nếu không có thỏa thuận khác và đã chốt địa điểm giao, rủi ro được chuyển khi nào?",
+    "expected_answer": "Khi hàng đã giao cho bên mua hoặc người được ủy quyền nhận tại địa điểm đó, kể cả khi bên bán được ủy quyền giữ chứng từ sở hữu.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 16,
+    "evidence_quote": "Chuyển rủi ro trong trường hợp có địa điểm giao hàng xác định Trừ tr ường h ợp có tho ả thu ận khác, n ếu bên bán có ngh ĩa v ụ giao hàng cho bên mua t ại một địa điểm nhất định thì rủi ro về mất mát hoặc hư hỏng hàng hoá được chuy ển cho bên mua khi hàng hoá đã được giao cho bên mua ho ặc người được bên mua u ỷ quyền đã nhận hàng t ại địa điểm đó, kể cả trong tr ường hợp bên bán được uỷ quy ền gi ữ lại các ch ứng từ xác l ập quy ền sở hữu đối với hàng hoá.",
+    "filter": {},
+    "article": 57
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Nếu pháp luật và thỏa thuận không quy định khác, quyền sở hữu hàng hóa chuyển khi nào?",
+    "expected_answer": "Kể từ thời điểm hàng hóa được chuyển giao.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 17,
+    "evidence_quote": "Thời điểm chuyển quyền sở hữu hàng hoá Trừ t rường h ợp pháp lu ật có quy định khác ho ặc các bên có th ỏa thu ận khác, quyền sở hữu được chuyển từ bên bán sang bên mua k ể từ thời điểm hàng hóa được chuyển giao.",
+    "filter": {},
+    "article": 62
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Trong phạm vi Chương III, hợp đồng dịch vụ có thể được thể hiện bằng những hình thức nào?",
+    "expected_answer": "Lời nói, văn bản hoặc hành vi cụ thể.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 21,
+    "evidence_quote": "1. Hợp đồng dịch vụ được thể hiện bằng lời nói, b ằng văn bản hoặc được xác lập bằng hành vi cụ thể.",
+    "filter": {
+      "chapter": "Chương Iii"
+    },
+    "article": 74
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Không có thỏa thuận hay chỉ dẫn về giá dịch vụ thì xác định giá dựa trên căn cứ nào?",
+    "expected_answer": "Giá loại dịch vụ đó trong các điều kiện tương tự về cung ứng, thời điểm, thị trường địa lý, thanh toán và điều kiện khác ảnh hưởng giá.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 24,
+    "evidence_quote": "Giá dịch vụ Trường hợp không có tho ả thuận về giá d ịch v ụ, không có tho ả thuận về phương pháp xác định giá d ịch vụ và c ũng không có b ất k ỳ ch ỉ dẫn nào khác về giá d ịch v ụ thì giá d ịch v ụ được xác định theo giá c ủa loại dịch vụ đó trong các điều ki ện t ương t ự v ề ph ương th ức cung ứng, th ời điểm cung ứng, th ị trường địa lý, ph ương thức thanh toán và các điều kiện khác có ảnh hưởng đến giá d ịch vụ.",
+    "filter": {},
+    "article": 86
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Không có thỏa thuận và không có thói quen thanh toán dịch vụ thì thời hạn thanh toán là khi nào?",
+    "expected_answer": "Thời điểm việc cung ứng dịch vụ được hoàn thành.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 24,
+    "evidence_quote": "Thời hạn thanh toán Trường h ợp không có th ỏa thu ận và gi ữa các bên không có b ất k ỳ thói quen nào v ề việc thanh toán thì th ời hạn thanh toán là th ời điểm vi ệc cung ứng dịch vụ được hoàn thành.",
+    "filter": {},
+    "article": 87
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Khuyến mại nhằm xúc tiến mua bán và cung ứng dịch vụ bằng cách nào?",
+    "expected_answer": "Dành cho khách hàng những lợi ích nhất định.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 24,
+    "evidence_quote": "1. Khuy ến m ại là ho ạt động xúc ti ến th ương m ại c ủa th ương nhân nh ằm xúc ti ến vi ệc mua bán hàng hoá, cung ứng d ịch v ụ b ằng cách dành cho khách hàng những lợi ích nhất định.",
+    "filter": {},
+    "article": 88
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Hợp đồng nhượng quyền thương mại phải có hình thức gì?",
+    "expected_answer": "Văn bản hoặc hình thức khác có giá trị pháp lý tương đương.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 74,
+    "evidence_quote": "Hợp đồng nhượng quyền thương mại Hợp đồng nh ượng quy ền th ương m ại ph ải được l ập thành v ăn b ản ho ặc bằng hình thức khác có giá trị pháp lý tương đương.",
+    "filter": {},
+    "article": 285
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Trong phạm vi Chương VII, mức phạt vi phạm hợp đồng bị giới hạn thế nào và có ngoại lệ nào?",
+    "expected_answer": "Không quá 8% giá trị phần nghĩa vụ hợp đồng bị vi phạm, trừ trường hợp tại Điều 266.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 78,
+    "evidence_quote": "Mức phạt vi phạm Mức phạt đối với vi ph ạm nghĩa vụ hợp đồng hoặc tổng mức phạt đối với nhiều vi phạm do các bên thoả thuận trong hợp đồng, nhưng không quá 8% giá trị phần ngh ĩa vụ hợp đồng b ị vi ph ạm, tr ừ trường hợp quy định t ại Điều 266 c ủa Luật này.",
+    "filter": {
+      "chapter": "Chương Vii"
+    },
+    "article": 301
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Nếu không có thỏa thuận, thời hạn khiếu nại về số lượng hàng hóa là bao lâu và tính từ đâu? Có ngoại lệ dẫn chiếu nào?",
+    "expected_answer": "Ba tháng kể từ ngày giao hàng; trừ trường hợp điểm đ khoản 1 Điều 237.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 82,
+    "evidence_quote": "Thời hạn khiếu nại Trừ trường hợp quy định tại điểm đ khoản 1 Điều 237 c ủa Luật này, th ời hạn khiếu nại do các bên thỏa thuận, nếu các bên không có thoả thuận thì thời hạn khiếu nại được quy định như sau:\n\n1. Ba tháng, kể từ ngày giao hàng đối với khiếu nại về số lượng hàng hoá;",
+    "filter": {},
+    "article": 318
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Thời hiệu khởi kiện tranh chấp thương mại là bao lâu, tính từ khi nào và có ngoại lệ nào?",
+    "expected_answer": "Hai năm kể từ khi quyền và lợi ích hợp pháp bị xâm phạm, trừ điểm e khoản 1 Điều 237.",
+    "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+    "gold_page": 82,
+    "evidence_quote": "Thời hiệu khởi kiện Thời hiệu khởi kiện áp dụng đối với các tranh chấp thương mại là hai năm, kể từ thời điểm quyền và lợi ích hợp pháp b ị xâm phạm, trừ trường hợp quy định tại điểm e khoản 1 Điều 237 của Luật này.",
+    "filter": {},
+    "article": 319
+  }
+]

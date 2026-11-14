@@ -1,0 +1,317 @@
+[
+  {
+    "strategy": "A",
+    "question_id": "q16",
+    "score": 1,
+    "reason": "Top-3 chứa quà tặng/giảm giá/phiếu mua hàng và lợi ích nhưng không lấy định nghĩa Điều 88. Phải suy khái quát từ ví dụ, giữ mức 1 theo tiêu chí bảo thủ.",
+    "chunk_ids": [
+      "luat-thuong-mai-36-2005-qh11-p25-fixed-800-100-22318a04d303b4ef",
+      "luat-thuong-mai-36-2005-qh11-p28-fixed-800-100-a60e0f196cff6152",
+      "luat-thuong-mai-36-2005-qh11-p25-fixed-800-100-dfbdcce2326ec377"
+    ],
+    "reviewer": "Codex",
+    "student_confirmed": true,
+    "reviewer_kind": "AI",
+    "review_status": "reviewed",
+    "review_round": 2,
+    "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+    "review_method": "Đọc toàn bộ top-3, so câu hỏi/đáp án/điều kiện và text/PDF gold. Không tính từ hit3.",
+    "confirmed_by": "Nguyễn Quốc Quang Anh",
+    "confirmed_at": "2026-11-14T09:29:35.745987+00:00",
+    "confirmation_method": "Học viên xác nhận trong chat: audit tôi kiểm tra thấy oke rồi"
+  },
+  {
+    "strategy": "B",
+    "question_id": "q16",
+    "score": 1,
+    "reason": "Top-3 chứa quà tặng/giảm giá/phiếu mua hàng và lợi ích nhưng không lấy định nghĩa Điều 88. Phải suy khái quát từ ví dụ, giữ mức 1 theo tiêu chí bảo thủ.",
+    "chunk_ids": [
+      "luat-thuong-mai-36-2005-qh11-p25-paragraph-1000-a430d8b2b9e97370",
+      "luat-thuong-mai-36-2005-qh11-p28-paragraph-1000-892236c110872f95",
+      "luat-thuong-mai-36-2005-qh11-p27-paragraph-1000-5b865424c512ce8d"
+    ],
+    "reviewer": "Codex",
+    "student_confirmed": true,
+    "reviewer_kind": "AI",
+    "review_status": "reviewed",
+    "review_round": 2,
+    "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+    "review_method": "Đọc toàn bộ top-3, so câu hỏi/đáp án/điều kiện và text/PDF gold. Không tính từ hit3.",
+    "confirmed_by": "Nguyễn Quốc Quang Anh",
+    "confirmed_at": "2026-11-14T09:29:35.745987+00:00",
+    "confirmation_method": "Học viên xác nhận trong chat: audit tôi kiểm tra thấy oke rồi"
+  },
+  {
+    "strategy": "C",
+    "question_id": "q16",
+    "score": 1,
+    "reason": "Top-3 chứa quà tặng/giảm giá/phiếu mua hàng và lợi ích nhưng không lấy định nghĩa Điều 88. Phải suy khái quát từ ví dụ, giữ mức 1 theo tiêu chí bảo thủ.",
+    "chunk_ids": [
+      "luat-thuong-mai-36-2005-qh11-p25-paragraph-1000-a430d8b2b9e97370",
+      "luat-thuong-mai-36-2005-qh11-p28-paragraph-1000-892236c110872f95",
+      "luat-thuong-mai-36-2005-qh11-p27-paragraph-1000-5b865424c512ce8d"
+    ],
+    "reviewer": "Codex",
+    "student_confirmed": true,
+    "reviewer_kind": "AI",
+    "review_status": "reviewed",
+    "review_round": 2,
+    "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+    "review_method": "Đọc toàn bộ top-3, so câu hỏi/đáp án/điều kiện và text/PDF gold. Không tính từ hit3.",
+    "confirmed_by": "Nguyễn Quốc Quang Anh",
+    "confirmed_at": "2026-11-14T09:29:35.745987+00:00",
+    "confirmation_method": "Học viên xác nhận trong chat: audit tôi kiểm tra thấy oke rồi"
+  },
+  {
+    "strategy": "A",
+    "question_id": "q17",
+    "score": 2,
+    "reason": "A top-1 trang 74 chứa trọn Điều 285: văn bản hoặc hình thức tương đương. B/C chỉ có Điều 283/284 và quyền/nghĩa vụ ở trang 75, không có yêu cầu hình thức nên mức 0.",
+    "chunk_ids": [
+      "luat-thuong-mai-36-2005-qh11-p74-fixed-800-100-2f3779ed3046c0da",
+      "luat-thuong-mai-36-2005-qh11-p74-fixed-800-100-f28fa7b4c8ebae6e",
+      "luat-thuong-mai-36-2005-qh11-p75-fixed-800-100-27709723d803c9fb"
+    ],
+    "reviewer": "Codex",
+    "student_confirmed": true,
+    "reviewer_kind": "AI",
+    "review_status": "reviewed",
+    "review_round": 2,
+    "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+    "review_method": "Đọc toàn bộ top-3, so câu hỏi/đáp án/điều kiện và text/PDF gold. Không tính từ hit3.",
+    "confirmed_by": "Nguyễn Quốc Quang Anh",
+    "confirmed_at": "2026-11-14T09:29:35.745987+00:00",
+    "confirmation_method": "Học viên xác nhận trong chat: audit tôi kiểm tra thấy oke rồi"
+  },
+  {
+    "strategy": "B",
+    "question_id": "q17",
+    "score": 0,
+    "reason": "A top-1 trang 74 chứa trọn Điều 285: văn bản hoặc hình thức tương đương. B/C chỉ có Điều 283/284 và quyền/nghĩa vụ ở trang 75, không có yêu cầu hình thức nên mức 0.",
+    "chunk_ids": [
+      "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-95735999306358d6",
+      "luat-thuong-mai-36-2005-qh11-p74-paragraph-1000-e551af49a640366a",
+      "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-f45ca634948ddc66"
+    ],
+    "reviewer": "Codex",
+    "student_confirmed": true,
+    "reviewer_kind": "AI",
+    "review_status": "reviewed",
+    "review_round": 2,
+    "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+    "review_method": "Đọc toàn bộ top-3, so câu hỏi/đáp án/điều kiện và text/PDF gold. Không tính từ hit3.",
+    "confirmed_by": "Nguyễn Quốc Quang Anh",
+    "confirmed_at": "2026-11-14T09:29:35.745987+00:00",
+    "confirmation_method": "Học viên xác nhận trong chat: audit tôi kiểm tra thấy oke rồi"
+  },
+  {
+    "strategy": "C",
+    "question_id": "q17",
+    "score": 0,
+    "reason": "A top-1 trang 74 chứa trọn Điều 285: văn bản hoặc hình thức tương đương. B/C chỉ có Điều 283/284 và quyền/nghĩa vụ ở trang 75, không có yêu cầu hình thức nên mức 0.",
+    "chunk_ids": [
+      "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-95735999306358d6",
+      "luat-thuong-mai-36-2005-qh11-p74-paragraph-1000-e551af49a640366a",
+      "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-f45ca634948ddc66"
+    ],
+    "reviewer": "Codex",
+    "student_confirmed": true,
+    "reviewer_kind": "AI",
+    "review_status": "reviewed",
+    "review_round": 2,
+    "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+    "review_method": "Đọc toàn bộ top-3, so câu hỏi/đáp án/điều kiện và text/PDF gold. Không tính từ hit3.",
+    "confirmed_by": "Nguyễn Quốc Quang Anh",
+    "confirmed_at": "2026-11-14T09:29:35.745987+00:00",
+    "confirmation_method": "Học viên xác nhận trong chat: audit tôi kiểm tra thấy oke rồi"
+  },
+  {
+    "strategy": "A",
+    "question_id": "q18",
+    "score": 2,
+    "reason": "A ghép chunk 0919d39a0f9c5413 và fa8c59b58743ed2b ở trang 78 để có chủ thể, trần 8% và ngoại lệ Điều 266; B/C chunk dbde525f36a87242 chứa đủ. Câu hỏi chỉ yêu cầu nêu dẫn chiếu ngoại lệ, không hỏi nội dung Điều 266.",
+    "chunk_ids": [
+      "luat-thuong-mai-36-2005-qh11-p79-fixed-800-100-3f4e394651d35bf3",
+      "luat-thuong-mai-36-2005-qh11-p78-fixed-800-100-0919d39a0f9c5413",
+      "luat-thuong-mai-36-2005-qh11-p78-fixed-800-100-fa8c59b58743ed2b"
+    ],
+    "reviewer": "Codex",
+    "student_confirmed": true,
+    "reviewer_kind": "AI",
+    "review_status": "reviewed",
+    "review_round": 2,
+    "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+    "review_method": "Đọc toàn bộ top-3, so câu hỏi/đáp án/điều kiện và text/PDF gold. Không tính từ hit3.",
+    "confirmed_by": "Nguyễn Quốc Quang Anh",
+    "confirmed_at": "2026-11-14T09:29:35.745987+00:00",
+    "confirmation_method": "Học viên xác nhận trong chat: audit tôi kiểm tra thấy oke rồi"
+  },
+  {
+    "strategy": "B",
+    "question_id": "q18",
+    "score": 2,
+    "reason": "A ghép chunk 0919d39a0f9c5413 và fa8c59b58743ed2b ở trang 78 để có chủ thể, trần 8% và ngoại lệ Điều 266; B/C chunk dbde525f36a87242 chứa đủ. Câu hỏi chỉ yêu cầu nêu dẫn chiếu ngoại lệ, không hỏi nội dung Điều 266.",
+    "chunk_ids": [
+      "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-e20676bf5b7c4e1d",
+      "luat-thuong-mai-36-2005-qh11-p78-paragraph-1000-dbde525f36a87242",
+      "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-36d656135ced3ca7"
+    ],
+    "reviewer": "Codex",
+    "student_confirmed": true,
+    "reviewer_kind": "AI",
+    "review_status": "reviewed",
+    "review_round": 2,
+    "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+    "review_method": "Đọc toàn bộ top-3, so câu hỏi/đáp án/điều kiện và text/PDF gold. Không tính từ hit3.",
+    "confirmed_by": "Nguyễn Quốc Quang Anh",
+    "confirmed_at": "2026-11-14T09:29:35.745987+00:00",
+    "confirmation_method": "Học viên xác nhận trong chat: audit tôi kiểm tra thấy oke rồi"
+  },
+  {
+    "strategy": "C",
+    "question_id": "q18",
+    "score": 2,
+    "reason": "A ghép chunk 0919d39a0f9c5413 và fa8c59b58743ed2b ở trang 78 để có chủ thể, trần 8% và ngoại lệ Điều 266; B/C chunk dbde525f36a87242 chứa đủ. Câu hỏi chỉ yêu cầu nêu dẫn chiếu ngoại lệ, không hỏi nội dung Điều 266.",
+    "chunk_ids": [
+      "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-e20676bf5b7c4e1d",
+      "luat-thuong-mai-36-2005-qh11-p78-paragraph-1000-dbde525f36a87242",
+      "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-36d656135ced3ca7"
+    ],
+    "reviewer": "Codex",
+    "student_confirmed": true,
+    "reviewer_kind": "AI",
+    "review_status": "reviewed",
+    "review_round": 2,
+    "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+    "review_method": "Đọc toàn bộ top-3, so câu hỏi/đáp án/điều kiện và text/PDF gold. Không tính từ hit3.",
+    "confirmed_by": "Nguyễn Quốc Quang Anh",
+    "confirmed_at": "2026-11-14T09:29:35.745987+00:00",
+    "confirmation_method": "Học viên xác nhận trong chat: audit tôi kiểm tra thấy oke rồi"
+  },
+  {
+    "strategy": "A",
+    "question_id": "q19",
+    "score": 2,
+    "reason": "Top-3 có nguyên câu dẫn ngoại lệ điểm đ khoản 1 Điều 237 và khoản 1 Điều 318: ba tháng kể từ ngày giao hàng. Trả lời đủ các phần câu hỏi.",
+    "chunk_ids": [
+      "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-be6fd9d00bd363dd",
+      "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-f293a1e60a84222a",
+      "luat-thuong-mai-36-2005-qh11-p8-fixed-800-100-58973d6eef4be94c"
+    ],
+    "reviewer": "Codex",
+    "student_confirmed": true,
+    "reviewer_kind": "AI",
+    "review_status": "reviewed",
+    "review_round": 2,
+    "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+    "review_method": "Đọc toàn bộ top-3, so câu hỏi/đáp án/điều kiện và text/PDF gold. Không tính từ hit3.",
+    "confirmed_by": "Nguyễn Quốc Quang Anh",
+    "confirmed_at": "2026-11-14T09:29:35.745987+00:00",
+    "confirmation_method": "Học viên xác nhận trong chat: audit tôi kiểm tra thấy oke rồi"
+  },
+  {
+    "strategy": "B",
+    "question_id": "q19",
+    "score": 2,
+    "reason": "Top-3 có nguyên câu dẫn ngoại lệ điểm đ khoản 1 Điều 237 và khoản 1 Điều 318: ba tháng kể từ ngày giao hàng. Trả lời đủ các phần câu hỏi.",
+    "chunk_ids": [
+      "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+      "luat-thuong-mai-36-2005-qh11-p51-paragraph-1000-6558e399e4947d69",
+      "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee"
+    ],
+    "reviewer": "Codex",
+    "student_confirmed": true,
+    "reviewer_kind": "AI",
+    "review_status": "reviewed",
+    "review_round": 2,
+    "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+    "review_method": "Đọc toàn bộ top-3, so câu hỏi/đáp án/điều kiện và text/PDF gold. Không tính từ hit3.",
+    "confirmed_by": "Nguyễn Quốc Quang Anh",
+    "confirmed_at": "2026-11-14T09:29:35.745987+00:00",
+    "confirmation_method": "Học viên xác nhận trong chat: audit tôi kiểm tra thấy oke rồi"
+  },
+  {
+    "strategy": "C",
+    "question_id": "q19",
+    "score": 2,
+    "reason": "Top-3 có nguyên câu dẫn ngoại lệ điểm đ khoản 1 Điều 237 và khoản 1 Điều 318: ba tháng kể từ ngày giao hàng. Trả lời đủ các phần câu hỏi.",
+    "chunk_ids": [
+      "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+      "luat-thuong-mai-36-2005-qh11-p51-paragraph-1000-6558e399e4947d69",
+      "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee"
+    ],
+    "reviewer": "Codex",
+    "student_confirmed": true,
+    "reviewer_kind": "AI",
+    "review_status": "reviewed",
+    "review_round": 2,
+    "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+    "review_method": "Đọc toàn bộ top-3, so câu hỏi/đáp án/điều kiện và text/PDF gold. Không tính từ hit3.",
+    "confirmed_by": "Nguyễn Quốc Quang Anh",
+    "confirmed_at": "2026-11-14T09:29:35.745987+00:00",
+    "confirmation_method": "Học viên xác nhận trong chat: audit tôi kiểm tra thấy oke rồi"
+  },
+  {
+    "strategy": "A",
+    "question_id": "q20",
+    "score": 2,
+    "reason": "Top-3 có Điều 319: hai năm kể từ lúc quyền/lợi ích hợp pháp bị xâm phạm và ngoại lệ điểm e khoản 1 Điều 237; không nhầm thời hạn khiếu nại với thời hiệu khởi kiện.",
+    "chunk_ids": [
+      "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-f293a1e60a84222a",
+      "luat-thuong-mai-36-2005-qh11-p77-fixed-800-100-634ba470d8450066",
+      "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-be6fd9d00bd363dd"
+    ],
+    "reviewer": "Codex",
+    "student_confirmed": true,
+    "reviewer_kind": "AI",
+    "review_status": "reviewed",
+    "review_round": 2,
+    "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+    "review_method": "Đọc toàn bộ top-3, so câu hỏi/đáp án/điều kiện và text/PDF gold. Không tính từ hit3.",
+    "confirmed_by": "Nguyễn Quốc Quang Anh",
+    "confirmed_at": "2026-11-14T09:29:35.745987+00:00",
+    "confirmation_method": "Học viên xác nhận trong chat: audit tôi kiểm tra thấy oke rồi"
+  },
+  {
+    "strategy": "B",
+    "question_id": "q20",
+    "score": 2,
+    "reason": "Top-3 có Điều 319: hai năm kể từ lúc quyền/lợi ích hợp pháp bị xâm phạm và ngoại lệ điểm e khoản 1 Điều 237; không nhầm thời hạn khiếu nại với thời hiệu khởi kiện.",
+    "chunk_ids": [
+      "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-7c39d75d39d020fb",
+      "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+      "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee"
+    ],
+    "reviewer": "Codex",
+    "student_confirmed": true,
+    "reviewer_kind": "AI",
+    "review_status": "reviewed",
+    "review_round": 2,
+    "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+    "review_method": "Đọc toàn bộ top-3, so câu hỏi/đáp án/điều kiện và text/PDF gold. Không tính từ hit3.",
+    "confirmed_by": "Nguyễn Quốc Quang Anh",
+    "confirmed_at": "2026-11-14T09:29:35.745987+00:00",
+    "confirmation_method": "Học viên xác nhận trong chat: audit tôi kiểm tra thấy oke rồi"
+  },
+  {
+    "strategy": "C",
+    "question_id": "q20",
+    "score": 2,
+    "reason": "Top-3 có Điều 319: hai năm kể từ lúc quyền/lợi ích hợp pháp bị xâm phạm và ngoại lệ điểm e khoản 1 Điều 237; không nhầm thời hạn khiếu nại với thời hiệu khởi kiện.",
+    "chunk_ids": [
+      "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-7c39d75d39d020fb",
+      "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+      "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee"
+    ],
+    "reviewer": "Codex",
+    "student_confirmed": true,
+    "reviewer_kind": "AI",
+    "review_status": "reviewed",
+    "review_round": 2,
+    "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+    "review_method": "Đọc toàn bộ top-3, so câu hỏi/đáp án/điều kiện và text/PDF gold. Không tính từ hit3.",
+    "confirmed_by": "Nguyễn Quốc Quang Anh",
+    "confirmed_at": "2026-11-14T09:29:35.745987+00:00",
+    "confirmation_method": "Học viên xác nhận trong chat: audit tôi kiểm tra thấy oke rồi"
+  }
+]

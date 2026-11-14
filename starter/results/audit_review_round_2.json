@@ -1,0 +1,47 @@
+{
+  "reviewed_at": "2026-11-14T08:51:31.928166+00:00",
+  "reviewer": "Codex",
+  "reviewer_kind": "AI",
+  "coherence_records": 30,
+  "grounding_records": 15,
+  "metadata_records": 45,
+  "visually_checked_pdf_pages": [
+    1,
+    10,
+    24,
+    74,
+    78,
+    82
+  ],
+  "all_samples_text_read": true,
+  "changes": [
+    {
+      "strategy": "B",
+      "page": 3,
+      "old_score": 1,
+      "new_score": 2,
+      "reason": "Bắt đầu bằng định nghĩa 15 với chủ thể rõ; giữ trọn Điều 4 và khoản 1 Điều 5. Các câu trong chunk đều kết thúc đầy đủ, tự hiểu được; không yêu cầu bao phủ toàn bộ Điều 5."
+    },
+    {
+      "strategy": "C",
+      "page": 3,
+      "old_score": 1,
+      "new_score": 2,
+      "reason": "Bắt đầu bằng định nghĩa 15 với chủ thể rõ; giữ trọn Điều 4 và khoản 1 Điều 5. Các câu trong chunk đều kết thúc đầy đủ, tự hiểu được; không yêu cầu bao phủ toàn bộ Điều 5."
+    }
+  ],
+  "limitations": [
+    "AI review; không phải chấm thủ công của học viên",
+    "Reviewer tham gia xây benchmark và đã thấy retrieval scores; không chấm mù",
+    "Không đổi benchmark/chunking/gold/model dựa vào kết quả test"
+  ],
+  "reference": {
+    "traces_test.json": "51b9abb5ebf52049f33b6e35142049bf810b382dd5867138cb50a103bf036af9",
+    "traces_dev.json": "d770a8d36f5076e129c4f247db6f2d669601defc5a2fb14ea3e4fcce1cdd9ef8",
+    "coherence_samples.json": "4f2a661f3ba2d4e0c232aee3faafc83894e736d72443189c9f5e9664ca6cd487",
+    "pages.json": "07261c3e463074b3f5356d72d3eba3e5296e3f5becba4f250edbe467a7ba2f7c",
+    "chunks_A.json": "7e861fbded1d0891c14e5c20af72f6ed416a4ee59a0ec12b2cbce5fa1e4538f0",
+    "chunks_B.json": "d291c84fce0f70cfb32a3995e85f352126f06c6bd73b3346d2b667c6e138c165",
+    "chunks_C.json": "d291c84fce0f70cfb32a3995e85f352126f06c6bd73b3346d2b667c6e138c165"
+  }
+}

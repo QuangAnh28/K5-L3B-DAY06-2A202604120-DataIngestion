@@ -1,5 +1,7 @@
 # Starter · PostgreSQL + pgvector
 
+> **Bài triển khai hiện tại dùng Qdrant local và OpenRouter**, đã hoàn thiện các hàm pipeline. Xem phần đầu README ở root để chạy. Các mô tả TODO/pgvector bên dưới là tài liệu starter gốc; `check_setup.py` chỉ kiểm tra phương án PostgreSQL, không cần cho pipeline Qdrant.
+
 Bộ khởi động **tùy chọn** cho lab cá nhân. Docker Compose tạo PostgreSQL + pgvector local; các file trong `src/` là **khung pseudocode có TODO**, chưa đọc tài liệu, tạo embedding, lưu vector hay chạy benchmark. Bạn cần tự hiện thực. Vẫn có thể chọn Qdrant, Chroma hoặc vector store tương đương theo [GUIDE.md](../GUIDE.md).
 
 ## Cấu trúc

@@ -1,0 +1,6 @@
+{
+  "requests": 29,
+  "prompt_tokens": 189726,
+  "cost_usd": 0.00379452,
+  "method": "Sum provider usage.cost for recorded successful requests; shared cache across strategies"
+}

@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed,800,100,document_id/source/page/chapter/year,none,openai/text-embedding-3-small,Baseline,3/15,7/15,3/5,3/5,Actual run; AI-assisted audit; student confirmed 30/30 records
+B,paragraph,1000,0,document_id/source/page/chapter/year,none,openai/text-embedding-3-small,Paragraph boundaries may preserve evidence,6/15,10/15,2/5,3/5,Actual run; AI-assisted audit; student confirmed 30/30 records
+C,paragraph,1000,0,document_id/source/page/chapter/year,chapter when supplied,openai/text-embedding-3-small,Chapter filter may reduce out-of-scope results,7/15,10/15,2/5,3/5,Actual run; AI-assisted audit; student confirmed 30/30 records

@@ -1,0 +1,14 @@
+{
+  "empty_pages": [],
+  "excluded": [
+    {
+      "page": 84,
+      "reason": "13 characters, signer name only"
+    }
+  ],
+  "known_issues": [
+    "pypdf extraction inserts whitespace inside Vietnamese words; retained without guessing",
+    "Chapter boundaries shared by all strategies; page boundaries may cut clauses",
+    "Qdrant local ResourceWarning on Python 3.14 in unit tests; assertions and reopen passed"
+  ]
+}

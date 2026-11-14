@@ -1,0 +1,77 @@
+[
+  {
+    "model": "text-embedding-3-small",
+    "usage": {
+      "prompt_tokens": 39,
+      "total_tokens": 39,
+      "cost": 7.8e-07,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 7.8e-07,
+        "upstream_inference_prompt_cost": 7.8e-07,
+        "upstream_inference_completions_cost": 0
+      }
+    },
+    "id": "gen-emb-1794644215-9l6GjBxU4AmFYFAJLJ1U"
+  },
+  {
+    "model": "text-embedding-3-small",
+    "usage": {
+      "prompt_tokens": 25,
+      "total_tokens": 25,
+      "cost": 5e-07,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 5e-07,
+        "upstream_inference_prompt_cost": 5e-07,
+        "upstream_inference_completions_cost": 0
+      }
+    },
+    "id": "gen-emb-1794644218-gOsF4YRtXLOc3gl4nbnZ"
+  },
+  {
+    "model": "text-embedding-3-small",
+    "usage": {
+      "prompt_tokens": 47,
+      "total_tokens": 47,
+      "cost": 9.4e-07,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 9.4e-07,
+        "upstream_inference_prompt_cost": 9.4e-07,
+        "upstream_inference_completions_cost": 0
+      }
+    },
+    "id": "gen-emb-1794644221-xqBZBrZuj9JzCaz1Nf7r"
+  },
+  {
+    "model": "text-embedding-3-small",
+    "usage": {
+      "prompt_tokens": 58,
+      "total_tokens": 58,
+      "cost": 1.16e-06,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 1.16e-06,
+        "upstream_inference_prompt_cost": 1.16e-06,
+        "upstream_inference_completions_cost": 0
+      }
+    },
+    "id": "gen-emb-1794644224-NIzAa8YuvaR0Tn5i7XH2"
+  },
+  {
+    "model": "text-embedding-3-small",
+    "usage": {
+      "prompt_tokens": 44,
+      "total_tokens": 44,
+      "cost": 8.8e-07,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 8.8e-07,
+        "upstream_inference_prompt_cost": 8.8e-07,
+        "upstream_inference_completions_cost": 0
+      }
+    },
+    "id": "gen-emb-1794644226-QHsGBiVra3hRPwIw7cv1"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "strategy": "A",
+    "split": "dev",
+    "question_id": "q05",
+    "requested_filter": {
+      "chapter": "Chương Ii"
+    },
+    "applied_filter": {},
+    "compliant": false
+  },
+  {
+    "strategy": "B",
+    "split": "dev",
+    "question_id": "q05",
+    "requested_filter": {
+      "chapter": "Chương Ii"
+    },
+    "applied_filter": {},
+    "compliant": false
+  },
+  {
+    "strategy": "C",
+    "split": "dev",
+    "question_id": "q05",
+    "requested_filter": {
+      "chapter": "Chương Ii"
+    },
+    "applied_filter": {
+      "chapter": "Chương Ii"
+    },
+    "compliant": true
+  },
+  {
+    "strategy": "A",
+    "split": "dev",
+    "question_id": "q13",
+    "requested_filter": {
+      "chapter": "Chương Iii"
+    },
+    "applied_filter": {},
+    "compliant": false
+  },
+  {
+    "strategy": "B",
+    "split": "dev",
+    "question_id": "q13",
+    "requested_filter": {
+      "chapter": "Chương Iii"
+    },
+    "applied_filter": {},
+    "compliant": false
+  },
+  {
+    "strategy": "C",
+    "split": "dev",
+    "question_id": "q13",
+    "requested_filter": {
+      "chapter": "Chương Iii"
+    },
+    "applied_filter": {
+      "chapter": "Chương Iii"
+    },
+    "compliant": true
+  },
+  {
+    "strategy": "A",
+    "split": "test",
+    "question_id": "q18",
+    "requested_filter": {
+      "chapter": "Chương Vii"
+    },
+    "applied_filter": {},
+    "compliant": true
+  },
+  {
+    "strategy": "B",
+    "split": "test",
+    "question_id": "q18",
+    "requested_filter": {
+      "chapter": "Chương Vii"
+    },
+    "applied_filter": {},
+    "compliant": true
+  },
+  {
+    "strategy": "C",
+    "split": "test",
+    "question_id": "q18",
+    "requested_filter": {
+      "chapter": "Chương Vii"
+    },
+    "applied_filter": {
+      "chapter": "Chương Vii"
+    },
+    "compliant": true
+  }
+]

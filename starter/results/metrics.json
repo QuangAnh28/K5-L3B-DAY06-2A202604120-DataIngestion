@@ -1,0 +1,44 @@
+[
+  {
+    "strategy": "A",
+    "split": "dev",
+    "n": 15,
+    "hit1": 3,
+    "hit3": 7
+  },
+  {
+    "strategy": "B",
+    "split": "dev",
+    "n": 15,
+    "hit1": 6,
+    "hit3": 10
+  },
+  {
+    "strategy": "C",
+    "split": "dev",
+    "n": 15,
+    "hit1": 7,
+    "hit3": 10
+  },
+  {
+    "strategy": "A",
+    "split": "test",
+    "n": 5,
+    "hit1": 3,
+    "hit3": 3
+  },
+  {
+    "strategy": "B",
+    "split": "test",
+    "n": 5,
+    "hit1": 2,
+    "hit3": 3
+  },
+  {
+    "strategy": "C",
+    "split": "test",
+    "n": 5,
+    "hit1": 2,
+    "hit3": 3
+  }
+]

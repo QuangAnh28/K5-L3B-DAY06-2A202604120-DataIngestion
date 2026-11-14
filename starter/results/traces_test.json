@@ -1,0 +1,782 @@
+[
+  {
+    "question": {
+      "id": "q16",
+      "split": "test",
+      "question": "Khuyến mại nhằm xúc tiến mua bán và cung ứng dịch vụ bằng cách nào?",
+      "expected_answer": "Dành cho khách hàng những lợi ích nhất định.",
+      "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+      "gold_page": 24,
+      "evidence_quote": "1. Khuy ến m ại là ho ạt động xúc ti ến th ương m ại c ủa th ương nhân nh ằm xúc ti ến vi ệc mua bán hàng hoá, cung ứng d ịch v ụ b ằng cách dành cho khách hàng những lợi ích nhất định.",
+      "filter": {},
+      "article": 88
+    },
+    "hits": [
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 25,
+        "year": 2005,
+        "chapter": "Chương Iv",
+        "article": "Điều 92",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p25-fixed-800-100-22318a04d303b4ef",
+        "text": "c khuyến mại hoặc thuê thương nhân khác th ực hiện khuyến mại tại Việt Nam cho thương nhân mà mình đại diện.\n\nĐiều 92. Các hình thức khuyến mại\n\n1. Đưa hàng hoá m ẫu, cung ứng d ịch v ụ m ẫu để khách hàng dùng th ử không phải trả tiền.\n\n2. Tặng hàng hoá cho khách hàng, cung ứng dịch vụ không thu tiền.\n\n3. Bán hàng, cung ứng dịch vụ với giá thấp hơn giá bán hàng, giá cung ứng dịch v ụ tr ước đó, được áp d ụng trong th ời gian khuy ến m ại đã đăng ký ho ặc thông báo. Tr ường h ợp hàng hóa, d ịch v ụ thu ộc di ện Nhà n ước qu ản lý giá thì việc khuyến mại theo hình thức này được thực hiện theo quy định của Chính phủ.\n\n4. Bán hàng, cung ứng dịch vụ có kèm theo phiếu mua hàng, phiếu sử dụng dịch vụ để khách hàng được hưởng một hay một số lợi ích nhất định.\n\n5. Bán hàng, cung ứng d ịch v ụ có kè",
+        "score": 0.6349226668833827
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 28,
+        "year": 2005,
+        "chapter": "Chương Iv",
+        "article": "Điều 101",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p28-fixed-800-100-a60e0f196cff6152",
+        "text": "ng hoá, d ịch vụ để lừa dối khách hàng.\n\n6. Khuy ến mại để tiêu th ụ hàng hoá kém ch ất lượng, làm ph ương hại đến môi trường, sức khoẻ con người và lợi ích công cộng khác.\n\n7. Khuy ến mại tại trường học, bệnh viện, trụ sở của cơ quan nhà n ước, tổ chức chính trị, tổ chức chính trị - xã hội, đơn vị vũ trang nhân dân.\n\n8. Hứa tặng, thưởng nhưng không thực hiện hoặc thực hiện không đúng.\n\n9. Khuyến mại nhằm cạnh tranh không lành mạnh.\n\n10. Th ực hi ện khuy ến m ại mà giá tr ị hàng hóa, d ịch v ụ dùng để khuy ến mại vượt quá h ạn mức tối đa hoặc giảm giá hàng hóa, d ịch vụ được khuyến mại quá mức tối đa theo quy định tại khoản 4 Điều 94 của Luật này.\n\nĐiều 101. Đăng ký hoạt động khuyến mại, thông báo kết quả khuyến mại với cơ quan quản lý nhà nước về thương mại",
+        "score": 0.5882666212321457
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 25,
+        "year": 2005,
+        "chapter": "Chương Iv",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p25-fixed-800-100-dfbdcce2326ec377",
+        "text": "ghi nhận sự mua hàng hoá, dịch vụ hoặc các hình thức khác.\n\n8. Tổ chức cho khách hàng tham gia các ch ương trình văn hóa, nghệ thuật, giải trí và các sự kiện khác vì mục đích khuyến mại.\n\n9. Các hình th ức khuyến mại khác n ếu được cơ quan qu ản lý nhà n ước về",
+        "score": 0.5834002585774566
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "strategy": "A",
+    "applied_filter": {}
+  },
+  {
+    "question": {
+      "id": "q16",
+      "split": "test",
+      "question": "Khuyến mại nhằm xúc tiến mua bán và cung ứng dịch vụ bằng cách nào?",
+      "expected_answer": "Dành cho khách hàng những lợi ích nhất định.",
+      "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+      "gold_page": 24,
+      "evidence_quote": "1. Khuy ến m ại là ho ạt động xúc ti ến th ương m ại c ủa th ương nhân nh ằm xúc ti ến vi ệc mua bán hàng hoá, cung ứng d ịch v ụ b ằng cách dành cho khách hàng những lợi ích nhất định.",
+      "filter": {},
+      "article": 88
+    },
+    "hits": [
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 25,
+        "year": 2005,
+        "chapter": "Chương Iv",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p25-paragraph-1000-a430d8b2b9e97370",
+        "text": "2. Tặng hàng hoá cho khách hàng, cung ứng dịch vụ không thu tiền.\n\n3. Bán hàng, cung ứng dịch vụ với giá thấp hơn giá bán hàng, giá cung ứng dịch v ụ tr ước đó, được áp d ụng trong th ời gian khuy ến m ại đã đăng ký ho ặc thông báo. Tr ường h ợp hàng hóa, d ịch v ụ thu ộc di ện Nhà n ước qu ản lý giá thì việc khuyến mại theo hình thức này được thực hiện theo quy định của Chính phủ.\n\n4. Bán hàng, cung ứng dịch vụ có kèm theo phiếu mua hàng, phiếu sử dụng dịch vụ để khách hàng được hưởng một hay một số lợi ích nhất định.\n\n5. Bán hàng, cung ứng d ịch v ụ có kèm phi ếu d ự thi cho khách hàng để chọn người trao thưởng theo thể lệ và giải thưởng đã công bố.\n\n6. Bán hàng, cung ứng d ịch v ụ kèm theo vi ệc tham d ự các ch ương trình mang tính may r ủi mà vi ệc tham gia ch ương trình g ắn li ền v ới vi ệc mua hàng hóa, dịch vụ và việc trúng th ưởng dựa trên sự may m ắn của người tham gia theo thể lệ và giải thưởng đã công bố.",
+        "score": 0.5982320783042605
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 28,
+        "year": 2005,
+        "chapter": "Chương Iv",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p28-paragraph-1000-892236c110872f95",
+        "text": "2. S ử d ụng hàng hóa, d ịch v ụ dùng để khuy ến m ại là hàng hóa, d ịch v ụ cấm kinh doanh; hàng hóa, d ịch v ụ h ạn ch ế kinh doanh; hàng hóa ch ưa được phép lưu thông, dịch vụ chưa được phép cung ứng.\n\n3. Khuyến mại hoặc sử dụng rượu, bia để khuyến mại cho người dưới 18 tuổi.\n\n4. Khuy ến m ại hoặc sử dụng thuốc lá, r ượu có độ cồn từ 30 độ trở lên để khuyến mại dưới mọi hình thức.\n\n5. Khuyến mại thiếu trung thực hoặc gây hiểu lầm về hàng hoá, d ịch vụ để lừa dối khách hàng.\n\n6. Khuy ến mại để tiêu th ụ hàng hoá kém ch ất lượng, làm ph ương hại đến môi trường, sức khoẻ con người và lợi ích công cộng khác.\n\n7. Khuy ến mại tại trường học, bệnh viện, trụ sở của cơ quan nhà n ước, tổ chức chính trị, tổ chức chính trị - xã hội, đơn vị vũ trang nhân dân.\n\n8. Hứa tặng, thưởng nhưng không thực hiện hoặc thực hiện không đúng.\n\n9. Khuyến mại nhằm cạnh tranh không lành mạnh.",
+        "score": 0.5933966498984915
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 27,
+        "year": 2005,
+        "chapter": "Chương Iv",
+        "article": "Điều 98",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p27-paragraph-1000-5b865424c512ce8d",
+        "text": "c) Giá trị bằng tiền hoặc lợi ích cụ thể mà khách hàng được hưởng từ phiếu mua hàng, phiếu sử dụng dịch vụ; địa điểm bán hàng, cung ứng dịch vụ và các loại hàng hóa, dịch vụ mà khách hàng có thể nhận được từ phiếu mua hàng, phiếu sử dụng dịch vụ đối với hình thức khuyến mại quy định tại khoản 4 Điều 92 của Luật này;\n\nd) Loại giải thưởng và giá trị của từng loại giải thưởng; thể lệ tham gia các chương trình khuy ến m ại, cách th ức l ựa ch ọn ng ười trúng th ưởng đối v ới các hình thức khuyến mại quy định tại khoản 5, khoản 6 Điều 92 của Luật này;\n\nđ) Các chi phí mà khách hàng ph ải tự ch ịu đối với các hình th ức khuy ến mại quy định tại khoản 7, khoản 8 Điều 92 của Luật này.\n\nĐiều 98. Cách thức thông báo\n\n1. Việc thông báo khuyến mại hàng hoá theo quy định tại Điều 97 của Luật này được thực hiện bằng một trong các cách thức sau đây:\n\na) Tại địa điểm bán hàng hóa và nơi để hàng hoá bày bán;",
+        "score": 0.560483660080589
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "strategy": "B",
+    "applied_filter": {}
+  },
+  {
+    "question": {
+      "id": "q16",
+      "split": "test",
+      "question": "Khuyến mại nhằm xúc tiến mua bán và cung ứng dịch vụ bằng cách nào?",
+      "expected_answer": "Dành cho khách hàng những lợi ích nhất định.",
+      "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+      "gold_page": 24,
+      "evidence_quote": "1. Khuy ến m ại là ho ạt động xúc ti ến th ương m ại c ủa th ương nhân nh ằm xúc ti ến vi ệc mua bán hàng hoá, cung ứng d ịch v ụ b ằng cách dành cho khách hàng những lợi ích nhất định.",
+      "filter": {},
+      "article": 88
+    },
+    "hits": [
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 25,
+        "year": 2005,
+        "chapter": "Chương Iv",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p25-paragraph-1000-a430d8b2b9e97370",
+        "text": "2. Tặng hàng hoá cho khách hàng, cung ứng dịch vụ không thu tiền.\n\n3. Bán hàng, cung ứng dịch vụ với giá thấp hơn giá bán hàng, giá cung ứng dịch v ụ tr ước đó, được áp d ụng trong th ời gian khuy ến m ại đã đăng ký ho ặc thông báo. Tr ường h ợp hàng hóa, d ịch v ụ thu ộc di ện Nhà n ước qu ản lý giá thì việc khuyến mại theo hình thức này được thực hiện theo quy định của Chính phủ.\n\n4. Bán hàng, cung ứng dịch vụ có kèm theo phiếu mua hàng, phiếu sử dụng dịch vụ để khách hàng được hưởng một hay một số lợi ích nhất định.\n\n5. Bán hàng, cung ứng d ịch v ụ có kèm phi ếu d ự thi cho khách hàng để chọn người trao thưởng theo thể lệ và giải thưởng đã công bố.\n\n6. Bán hàng, cung ứng d ịch v ụ kèm theo vi ệc tham d ự các ch ương trình mang tính may r ủi mà vi ệc tham gia ch ương trình g ắn li ền v ới vi ệc mua hàng hóa, dịch vụ và việc trúng th ưởng dựa trên sự may m ắn của người tham gia theo thể lệ và giải thưởng đã công bố.",
+        "score": 0.5982320783042605
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 28,
+        "year": 2005,
+        "chapter": "Chương Iv",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p28-paragraph-1000-892236c110872f95",
+        "text": "2. S ử d ụng hàng hóa, d ịch v ụ dùng để khuy ến m ại là hàng hóa, d ịch v ụ cấm kinh doanh; hàng hóa, d ịch v ụ h ạn ch ế kinh doanh; hàng hóa ch ưa được phép lưu thông, dịch vụ chưa được phép cung ứng.\n\n3. Khuyến mại hoặc sử dụng rượu, bia để khuyến mại cho người dưới 18 tuổi.\n\n4. Khuy ến m ại hoặc sử dụng thuốc lá, r ượu có độ cồn từ 30 độ trở lên để khuyến mại dưới mọi hình thức.\n\n5. Khuyến mại thiếu trung thực hoặc gây hiểu lầm về hàng hoá, d ịch vụ để lừa dối khách hàng.\n\n6. Khuy ến mại để tiêu th ụ hàng hoá kém ch ất lượng, làm ph ương hại đến môi trường, sức khoẻ con người và lợi ích công cộng khác.\n\n7. Khuy ến mại tại trường học, bệnh viện, trụ sở của cơ quan nhà n ước, tổ chức chính trị, tổ chức chính trị - xã hội, đơn vị vũ trang nhân dân.\n\n8. Hứa tặng, thưởng nhưng không thực hiện hoặc thực hiện không đúng.\n\n9. Khuyến mại nhằm cạnh tranh không lành mạnh.",
+        "score": 0.5933966498984915
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 27,
+        "year": 2005,
+        "chapter": "Chương Iv",
+        "article": "Điều 98",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p27-paragraph-1000-5b865424c512ce8d",
+        "text": "c) Giá trị bằng tiền hoặc lợi ích cụ thể mà khách hàng được hưởng từ phiếu mua hàng, phiếu sử dụng dịch vụ; địa điểm bán hàng, cung ứng dịch vụ và các loại hàng hóa, dịch vụ mà khách hàng có thể nhận được từ phiếu mua hàng, phiếu sử dụng dịch vụ đối với hình thức khuyến mại quy định tại khoản 4 Điều 92 của Luật này;\n\nd) Loại giải thưởng và giá trị của từng loại giải thưởng; thể lệ tham gia các chương trình khuy ến m ại, cách th ức l ựa ch ọn ng ười trúng th ưởng đối v ới các hình thức khuyến mại quy định tại khoản 5, khoản 6 Điều 92 của Luật này;\n\nđ) Các chi phí mà khách hàng ph ải tự ch ịu đối với các hình th ức khuy ến mại quy định tại khoản 7, khoản 8 Điều 92 của Luật này.\n\nĐiều 98. Cách thức thông báo\n\n1. Việc thông báo khuyến mại hàng hoá theo quy định tại Điều 97 của Luật này được thực hiện bằng một trong các cách thức sau đây:\n\na) Tại địa điểm bán hàng hóa và nơi để hàng hoá bày bán;",
+        "score": 0.560483660080589
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "strategy": "C",
+    "applied_filter": {}
+  },
+  {
+    "question": {
+      "id": "q17",
+      "split": "test",
+      "question": "Hợp đồng nhượng quyền thương mại phải có hình thức gì?",
+      "expected_answer": "Văn bản hoặc hình thức khác có giá trị pháp lý tương đương.",
+      "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+      "gold_page": 74,
+      "evidence_quote": "Hợp đồng nhượng quyền thương mại Hợp đồng nh ượng quy ền th ương m ại ph ải được l ập thành v ăn b ản ho ặc bằng hình thức khác có giá trị pháp lý tương đương.",
+      "filter": {},
+      "article": 285
+    },
+    "hits": [
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 74,
+        "year": 2005,
+        "chapter": "Chương Vi",
+        "article": "Điều 285",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p74-fixed-800-100-2f3779ed3046c0da",
+        "text": "ượng kinh doanh, quảng cáo của bên nhượng quyền;\n\n2. Bên nh ượng quyền có quyền kiểm soát và tr ợ giúp cho bên nh ận quyền trong việc điều hành công việc kinh doanh.\n\nĐiều 285. Hợp đồng nhượng quyền thương mại Hợp đồng nh ượng quy ền th ương m ại ph ải được l ập thành v ăn b ản ho ặc bằng hình thức khác có giá trị pháp lý tương đương.\n\nĐiều 286. Quyền của thương nhân nhượng quyền Trừ trường hợp có thỏa thuận khác, thương nhân nhượng quyền có các quyền sau đây:\n\n1. Nhận tiền nhượng quyền;\n\n2. T ổ ch ức qu ảng cáo cho h ệ th ống nh ượng quy ền th ương m ại và m ạng lưới nhượng quyền thương mại;\n\n3. Kiểm tra định kỳ hoặc đột xuất hoạt động của bên nhận quyền nhằm bảo đảm sự thống nhất của hệ thống nhượng quyền thương mại và sự ổn định về chất lượng hàng hoá, dịch vụ.\n\nĐiều 287. Nghĩa vụ của t",
+        "score": 0.6337914854402908
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 74,
+        "year": 2005,
+        "chapter": "Chương Vi",
+        "section": "Mục 8",
+        "article": "Điều 283",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p74-fixed-800-100-f28fa7b4c8ebae6e",
+        "text": "thuê trong thời hạn thuê thuộc về bên thuê.\n\nĐiều 283. Thay đổi quyền sở hữu trong thời hạn thuê Mọi thay đổi về quyền sở hữu đối với hàng hóa cho thuê không ảnh hưởng đến hiệu lực của hợp đồng cho thuê.\n\nMục 8 NHƯỢNG QUYỀN THƯƠNG MẠI\n\nĐiều 284. Nhượng quyền thương mại Nhượng quyền thương m ại là ho ạt động thương m ại, theo đó bên nh ượng quyền cho phép và yêu c ầu bên nhận quyền tự mình tiến hành việc mua bán hàng hoá, cung ứng dịch vụ theo các điều kiện sau đây:\n\n1. Việc mua bán hàng hoá, cung ứng dịch vụ được tiến hành theo cách thức tổ ch ức kinh doanh do bên nh ượng quy ền quy định và được g ắn v ới nhãn hi ệu hàng hoá, tên thương mại, bí quyết kinh doanh, khẩu hiệu kinh doanh, bi ểu tượng kinh doanh, quảng cáo của bên nhượng quyền;\n\n2. Bên nh ượng quyền có quyền kiểm soát và tr ợ gi",
+        "score": 0.6281087248858197
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 75,
+        "year": 2005,
+        "chapter": "Chương Vi",
+        "article": "Điều 290",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p75-fixed-800-100-27709723d803c9fb",
+        "text": "hãn hi ệu hàng hoá, tên th ương m ại, kh ẩu hi ệu kinh doanh, bi ểu tượng kinh doanh và các quy ền sở hữu trí tuệ khác (n ếu có) ho ặc hệ thống của bên nhượng quyền khi kết thúc hoặc chấm dứt hợp đồng nhượng quyền thương mại;\n\n6. Điều hành hoạt động phù hợp với hệ thống nhượng quyền thương mại;\n\n7. Không được nhượng quyền lại trong trường hợp không có sự chấp thuận của bên nhượng quyền.\n\nĐiều 290. Nhượng quyền lại cho bên thứ ba\n\n1. Bên nh ận quyền có quy ền nhượng quyền lại cho bên th ứ ba (g ọi là bên nhận lại quyền) nếu được sự chấp thuận của bên nhượng quyền.\n\n2. Bên nh ận lại quy ền có các quy ền và ngh ĩa vụ của bên nh ận quy ền quy định tại Điều 288 và Điều 289 của Luật này.",
+        "score": 0.6108199204468904
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "strategy": "A",
+    "applied_filter": {}
+  },
+  {
+    "question": {
+      "id": "q17",
+      "split": "test",
+      "question": "Hợp đồng nhượng quyền thương mại phải có hình thức gì?",
+      "expected_answer": "Văn bản hoặc hình thức khác có giá trị pháp lý tương đương.",
+      "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+      "gold_page": 74,
+      "evidence_quote": "Hợp đồng nhượng quyền thương mại Hợp đồng nh ượng quy ền th ương m ại ph ải được l ập thành v ăn b ản ho ặc bằng hình thức khác có giá trị pháp lý tương đương.",
+      "filter": {},
+      "article": 285
+    },
+    "hits": [
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 75,
+        "year": 2005,
+        "chapter": "Chương Vi",
+        "article": "Điều 290",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-95735999306358d6",
+        "text": "2. Đầu tư đủ cơ sở vật chất, nguồn tài chính và nhân l ực để tiếp nhận các quyền và bí quyết kinh doanh mà bên nhượng quyền chuyển giao;\n\n3. Chấp nhận sự kiểm soát, giám sát và h ướng dẫn của bên nh ượng quyền; tuân thủ các yêu c ầu về thiết kế, sắp x ếp địa điểm bán hàng, cung ứng d ịch v ụ của thương nhân nhượng quyền;\n\n4. Giữ bí mật về bí quyết kinh doanh đã được nhượng quyền, kể cả sau khi hợp đồng nhượng quyền thương mại kết thúc hoặc chấm dứt;\n\n5. Ng ừng s ử d ụng nhãn hi ệu hàng hoá, tên th ương m ại, kh ẩu hi ệu kinh doanh, bi ểu tượng kinh doanh và các quy ền sở hữu trí tuệ khác (n ếu có) ho ặc hệ thống của bên nhượng quyền khi kết thúc hoặc chấm dứt hợp đồng nhượng quyền thương mại;\n\n6. Điều hành hoạt động phù hợp với hệ thống nhượng quyền thương mại;\n\n7. Không được nhượng quyền lại trong trường hợp không có sự chấp thuận của bên nhượng quyền.\n\nĐiều 290. Nhượng quyền lại cho bên thứ ba",
+        "score": 0.6324375479931332
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 74,
+        "year": 2005,
+        "chapter": "Chương Vi",
+        "section": "Mục 8",
+        "article": "Điều 283",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p74-paragraph-1000-e551af49a640366a",
+        "text": "thuê trong thời hạn thuê thuộc về bên thuê.\n\nĐiều 283. Thay đổi quyền sở hữu trong thời hạn thuê Mọi thay đổi về quyền sở hữu đối với hàng hóa cho thuê không ảnh hưởng đến hiệu lực của hợp đồng cho thuê.\n\nMục 8 NHƯỢNG QUYỀN THƯƠNG MẠI\n\nĐiều 284. Nhượng quyền thương mại Nhượng quyền thương m ại là ho ạt động thương m ại, theo đó bên nh ượng quyền cho phép và yêu c ầu bên nhận quyền tự mình tiến hành việc mua bán hàng hoá, cung ứng dịch vụ theo các điều kiện sau đây:\n\n1. Việc mua bán hàng hoá, cung ứng dịch vụ được tiến hành theo cách thức tổ ch ức kinh doanh do bên nh ượng quy ền quy định và được g ắn v ới nhãn hi ệu hàng hoá, tên thương mại, bí quyết kinh doanh, khẩu hiệu kinh doanh, bi ểu tượng kinh doanh, quảng cáo của bên nhượng quyền;\n\n2. Bên nh ượng quyền có quyền kiểm soát và tr ợ giúp cho bên nh ận quyền trong việc điều hành công việc kinh doanh.",
+        "score": 0.6182811574393778
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 75,
+        "year": 2005,
+        "chapter": "Chương Vi",
+        "article": "Điều 288",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-f45ca634948ddc66",
+        "text": "thương mại;\n\n3. Thi ết kế và s ắp x ếp địa điểm bán hàng, cung ứng dịch vụ bằng chi phí của thương nhân nhận quyền;\n\n4. Bảo đảm quyền sở hữu trí tuệ đối với đối tượng được ghi trong hợp đồng nhượng quyền;\n\n5. Đối x ử bình đẳng v ới các th ương nh ân nh ận quy ền trong h ệ th ống nhượng quyền thương mại.\n\nĐiều 288. Quyền của thương nhân nhận quyền Trừ trường hợp có thỏa thuận khác, thương nhân nhận quyền có các quy ền sau đây:\n\n1. Yêu c ầu thương nhân nh ượng quyền cung c ấp đầy đủ trợ giúp k ỹ thuật có liên quan đến hệ thống nhượng quyền thương mại;\n\n2. Yêu c ầu th ương nhân nh ượng quy ền đối x ử bình đẳng v ới các th ương nhân nhận quyền khác trong hệ thống nhượng quyền thương mại.\n\nĐiều 289. Nghĩa vụ của thương nhân nhận quyền Trừ trường hợp có thỏa thuận khác, thương nhân nhận quyền có các nghĩa vụ sau đây:\n\n1. Tr ả ti ền nh ượng quy ền và các kho ản thanh toán khác theo h ợp đồng nhượng quyền thương mại;",
+        "score": 0.6001541086175859
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "strategy": "B",
+    "applied_filter": {}
+  },
+  {
+    "question": {
+      "id": "q17",
+      "split": "test",
+      "question": "Hợp đồng nhượng quyền thương mại phải có hình thức gì?",
+      "expected_answer": "Văn bản hoặc hình thức khác có giá trị pháp lý tương đương.",
+      "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+      "gold_page": 74,
+      "evidence_quote": "Hợp đồng nhượng quyền thương mại Hợp đồng nh ượng quy ền th ương m ại ph ải được l ập thành v ăn b ản ho ặc bằng hình thức khác có giá trị pháp lý tương đương.",
+      "filter": {},
+      "article": 285
+    },
+    "hits": [
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 75,
+        "year": 2005,
+        "chapter": "Chương Vi",
+        "article": "Điều 290",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-95735999306358d6",
+        "text": "2. Đầu tư đủ cơ sở vật chất, nguồn tài chính và nhân l ực để tiếp nhận các quyền và bí quyết kinh doanh mà bên nhượng quyền chuyển giao;\n\n3. Chấp nhận sự kiểm soát, giám sát và h ướng dẫn của bên nh ượng quyền; tuân thủ các yêu c ầu về thiết kế, sắp x ếp địa điểm bán hàng, cung ứng d ịch v ụ của thương nhân nhượng quyền;\n\n4. Giữ bí mật về bí quyết kinh doanh đã được nhượng quyền, kể cả sau khi hợp đồng nhượng quyền thương mại kết thúc hoặc chấm dứt;\n\n5. Ng ừng s ử d ụng nhãn hi ệu hàng hoá, tên th ương m ại, kh ẩu hi ệu kinh doanh, bi ểu tượng kinh doanh và các quy ền sở hữu trí tuệ khác (n ếu có) ho ặc hệ thống của bên nhượng quyền khi kết thúc hoặc chấm dứt hợp đồng nhượng quyền thương mại;\n\n6. Điều hành hoạt động phù hợp với hệ thống nhượng quyền thương mại;\n\n7. Không được nhượng quyền lại trong trường hợp không có sự chấp thuận của bên nhượng quyền.\n\nĐiều 290. Nhượng quyền lại cho bên thứ ba",
+        "score": 0.6324375479931332
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 74,
+        "year": 2005,
+        "chapter": "Chương Vi",
+        "section": "Mục 8",
+        "article": "Điều 283",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p74-paragraph-1000-e551af49a640366a",
+        "text": "thuê trong thời hạn thuê thuộc về bên thuê.\n\nĐiều 283. Thay đổi quyền sở hữu trong thời hạn thuê Mọi thay đổi về quyền sở hữu đối với hàng hóa cho thuê không ảnh hưởng đến hiệu lực của hợp đồng cho thuê.\n\nMục 8 NHƯỢNG QUYỀN THƯƠNG MẠI\n\nĐiều 284. Nhượng quyền thương mại Nhượng quyền thương m ại là ho ạt động thương m ại, theo đó bên nh ượng quyền cho phép và yêu c ầu bên nhận quyền tự mình tiến hành việc mua bán hàng hoá, cung ứng dịch vụ theo các điều kiện sau đây:\n\n1. Việc mua bán hàng hoá, cung ứng dịch vụ được tiến hành theo cách thức tổ ch ức kinh doanh do bên nh ượng quy ền quy định và được g ắn v ới nhãn hi ệu hàng hoá, tên thương mại, bí quyết kinh doanh, khẩu hiệu kinh doanh, bi ểu tượng kinh doanh, quảng cáo của bên nhượng quyền;\n\n2. Bên nh ượng quyền có quyền kiểm soát và tr ợ giúp cho bên nh ận quyền trong việc điều hành công việc kinh doanh.",
+        "score": 0.6182811574393778
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 75,
+        "year": 2005,
+        "chapter": "Chương Vi",
+        "article": "Điều 288",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-f45ca634948ddc66",
+        "text": "thương mại;\n\n3. Thi ết kế và s ắp x ếp địa điểm bán hàng, cung ứng dịch vụ bằng chi phí của thương nhân nhận quyền;\n\n4. Bảo đảm quyền sở hữu trí tuệ đối với đối tượng được ghi trong hợp đồng nhượng quyền;\n\n5. Đối x ử bình đẳng v ới các th ương nh ân nh ận quy ền trong h ệ th ống nhượng quyền thương mại.\n\nĐiều 288. Quyền của thương nhân nhận quyền Trừ trường hợp có thỏa thuận khác, thương nhân nhận quyền có các quy ền sau đây:\n\n1. Yêu c ầu thương nhân nh ượng quyền cung c ấp đầy đủ trợ giúp k ỹ thuật có liên quan đến hệ thống nhượng quyền thương mại;\n\n2. Yêu c ầu th ương nhân nh ượng quy ền đối x ử bình đẳng v ới các th ương nhân nhận quyền khác trong hệ thống nhượng quyền thương mại.\n\nĐiều 289. Nghĩa vụ của thương nhân nhận quyền Trừ trường hợp có thỏa thuận khác, thương nhân nhận quyền có các nghĩa vụ sau đây:\n\n1. Tr ả ti ền nh ượng quy ền và các kho ản thanh toán khác theo h ợp đồng nhượng quyền thương mại;",
+        "score": 0.6001541086175859
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "strategy": "C",
+    "applied_filter": {}
+  },
+  {
+    "question": {
+      "id": "q18",
+      "split": "test",
+      "question": "Trong phạm vi Chương VII, mức phạt vi phạm hợp đồng bị giới hạn thế nào và có ngoại lệ nào?",
+      "expected_answer": "Không quá 8% giá trị phần nghĩa vụ hợp đồng bị vi phạm, trừ trường hợp tại Điều 266.",
+      "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+      "gold_page": 78,
+      "evidence_quote": "Mức phạt vi phạm Mức phạt đối với vi ph ạm nghĩa vụ hợp đồng hoặc tổng mức phạt đối với nhiều vi phạm do các bên thoả thuận trong hợp đồng, nhưng không quá 8% giá trị phần ngh ĩa vụ hợp đồng b ị vi ph ạm, tr ừ trường hợp quy định t ại Điều 266 c ủa Luật này.",
+      "filter": {
+        "chapter": "Chương Vii"
+      },
+      "article": 301
+    },
+    "hits": [
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 79,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 307",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p79-fixed-800-100-3f4e394651d35bf3",
+        "text": "ì bên b ị vi phạm hợp đồng có quy ền yêu c ầu tr ả ti ền lãi trên s ố ti ền ch ậm tr ả đó theo lãi su ất n ợ quá h ạn trung bình trên th ị trường tại thời điểm thanh toán t ương ứng với thời gian ch ậm trả, trừ trường hợp có thoả thuận khác hoặc pháp luật có quy định khác.\n\nĐiều 307. Quan hệ giữa chế tài phạt vi phạm và chế tài bồi thường thiệt hại\n\n1. Trường hợp các bên không có thỏa thuận phạt vi phạm thì bên bị vi phạm chỉ có quy ền yêu c ầu b ồi thường thiệt hại, trừ tr ường hợp Lu ật này có quy định khác.\n\n2. Trường h ợp các bên có th ỏa thuận ph ạt vi ph ạm thì bên b ị vi ph ạm có quyền áp d ụng cả chế tài ph ạt vi ph ạm và bu ộc bồi thường thiệt h ại, trừ trường hợp Luật này có quy định khác.\n\nĐiều 308. Tạm ngừng thực hiện hợp đồng Trừ các trường hợp miễn trách nhiệm quy định tại Đi",
+        "score": 0.630558271044521
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 78,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 300",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p78-fixed-800-100-0919d39a0f9c5413",
+        "text": "p có thoả thuận khác, trong thời gian áp d ụng chế tài buộc thực hiện đúng hợp đồng, bên b ị vi ph ạm có quy ền yêu c ầu bồi thường thiệt hại và phạt vi phạm nhưng không được áp dụng các chế tài khác.\n\n2. Trường h ợp bên vi ph ạm không th ực hiện chế tài bu ộc thực hi ện đúng hợp đồng trong thời hạn mà bên bị vi phạm ấn định, bên bị vi phạm được áp dụng các chế tài khác để bảo vệ quyền lợi chính đáng của mình.\n\nĐiều 300. Phạt vi phạm Phạt vi ph ạm là vi ệc bên b ị vi ph ạm yêu c ầu bên vi ph ạm tr ả một kho ản tiền phạt do vi ph ạm hợp đồng nếu trong h ợp đồng có tho ả thuận, trừ các tr ường hợp miễn trách nhiệm quy định tại Điều 294 của Luật này.\n\nĐiều 301. Mức phạt vi phạm Mức phạt đối với vi ph ạm nghĩa vụ hợp đồng hoặc tổng mức phạt đối với nhiều vi phạm do các bên thoả thuận trong hợp",
+        "score": 0.6273180318893354
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 78,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 302",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p78-fixed-800-100-fa8c59b58743ed2b",
+        "text": "vi ph ạm nghĩa vụ hợp đồng hoặc tổng mức phạt đối với nhiều vi phạm do các bên thoả thuận trong hợp đồng, nhưng không quá 8% giá trị phần ngh ĩa vụ hợp đồng b ị vi ph ạm, tr ừ trường hợp quy định t ại Điều 266 c ủa Luật này.\n\nĐiều 302. Bồi thường thiệt hại\n\n1. Bồi thường thiệt hại là vi ệc bên vi ph ạm bồi thường những tổn thất do hành vi vi phạm hợp đồng gây ra cho bên bị vi phạm.",
+        "score": 0.5539482979675916
+      }
+    ],
+    "hit1": false,
+    "hit3": false,
+    "strategy": "A",
+    "applied_filter": {}
+  },
+  {
+    "question": {
+      "id": "q18",
+      "split": "test",
+      "question": "Trong phạm vi Chương VII, mức phạt vi phạm hợp đồng bị giới hạn thế nào và có ngoại lệ nào?",
+      "expected_answer": "Không quá 8% giá trị phần nghĩa vụ hợp đồng bị vi phạm, trừ trường hợp tại Điều 266.",
+      "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+      "gold_page": 78,
+      "evidence_quote": "Mức phạt vi phạm Mức phạt đối với vi ph ạm nghĩa vụ hợp đồng hoặc tổng mức phạt đối với nhiều vi phạm do các bên thoả thuận trong hợp đồng, nhưng không quá 8% giá trị phần ngh ĩa vụ hợp đồng b ị vi ph ạm, tr ừ trường hợp quy định t ại Điều 266 c ủa Luật này.",
+      "filter": {
+        "chapter": "Chương Vii"
+      },
+      "article": 301
+    },
+    "hits": [
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 79,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 305",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-e20676bf5b7c4e1d",
+        "text": "Điều 305. Nghĩa vụ hạn chế tổn thất Bên yêu cầu bồi thường thiệt hại phải áp dụng các bi ện pháp hợp lý để hạn chế tổn thất kể cả tổn thất đối với khoản lợi trực tiếp đáng lẽ được hưởng do hành vi vi phạm hợp đồng gây ra; nếu bên yêu c ầu bồi thường thiệt hại không áp d ụng các bi ện pháp đó, bên vi ph ạm h ợp đồng có quy ền yêu c ầu giảm b ớt giá tr ị bồi thường thiệt hại bằng mức tổn thất đáng lẽ có thể hạn chế được.\n\nĐiều 306. Quyền yêu cầu tiền lãi do chậm thanh toán Trường h ợp bên vi ph ạm h ợp đồng ch ậm thanh toán ti ền hàng hay ch ậm thanh toán thù lao d ịch vụ và các chi phí hợp lý khác thì bên b ị vi phạm hợp đồng có quy ền yêu c ầu tr ả ti ền lãi trên s ố ti ền ch ậm tr ả đó theo lãi su ất n ợ quá h ạn trung bình trên th ị trường tại thời điểm thanh toán t ương ứng với thời gian ch ậm trả, trừ trường hợp có thoả thuận khác hoặc pháp luật có quy định khác.\n\nĐiều 307. Quan hệ giữa chế tài phạt vi phạm và chế tài bồi thường thiệt hại",
+        "score": 0.5724055464924553
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 78,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 300",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p78-paragraph-1000-dbde525f36a87242",
+        "text": "Điều 300. Phạt vi phạm Phạt vi ph ạm là vi ệc bên b ị vi ph ạm yêu c ầu bên vi ph ạm tr ả một kho ản tiền phạt do vi ph ạm hợp đồng nếu trong h ợp đồng có tho ả thuận, trừ các tr ường hợp miễn trách nhiệm quy định tại Điều 294 của Luật này.\n\nĐiều 301. Mức phạt vi phạm Mức phạt đối với vi ph ạm nghĩa vụ hợp đồng hoặc tổng mức phạt đối với nhiều vi phạm do các bên thoả thuận trong hợp đồng, nhưng không quá 8% giá trị phần ngh ĩa vụ hợp đồng b ị vi ph ạm, tr ừ trường hợp quy định t ại Điều 266 c ủa Luật này.\n\nĐiều 302. Bồi thường thiệt hại\n\n1. Bồi thường thiệt hại là vi ệc bên vi ph ạm bồi thường những tổn thất do hành vi vi phạm hợp đồng gây ra cho bên bị vi phạm.",
+        "score": 0.5665536574957479
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 79,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 308",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-36d656135ced3ca7",
+        "text": "1. Trường hợp các bên không có thỏa thuận phạt vi phạm thì bên bị vi phạm chỉ có quy ền yêu c ầu b ồi thường thiệt hại, trừ tr ường hợp Lu ật này có quy định khác.\n\n2. Trường h ợp các bên có th ỏa thuận ph ạt vi ph ạm thì bên b ị vi ph ạm có quyền áp d ụng cả chế tài ph ạt vi ph ạm và bu ộc bồi thường thiệt h ại, trừ trường hợp Luật này có quy định khác.\n\nĐiều 308. Tạm ngừng thực hiện hợp đồng Trừ các trường hợp miễn trách nhiệm quy định tại Điều 294 c ủa Luật này, tạm ngừng thực hiện hợp đồng là việc một bên tạm thời không thực hiện nghĩa vụ trong hợp đồng thuộc một trong các trường hợp sau đây:",
+        "score": 0.5432315084868228
+      }
+    ],
+    "hit1": false,
+    "hit3": true,
+    "strategy": "B",
+    "applied_filter": {}
+  },
+  {
+    "question": {
+      "id": "q18",
+      "split": "test",
+      "question": "Trong phạm vi Chương VII, mức phạt vi phạm hợp đồng bị giới hạn thế nào và có ngoại lệ nào?",
+      "expected_answer": "Không quá 8% giá trị phần nghĩa vụ hợp đồng bị vi phạm, trừ trường hợp tại Điều 266.",
+      "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+      "gold_page": 78,
+      "evidence_quote": "Mức phạt vi phạm Mức phạt đối với vi ph ạm nghĩa vụ hợp đồng hoặc tổng mức phạt đối với nhiều vi phạm do các bên thoả thuận trong hợp đồng, nhưng không quá 8% giá trị phần ngh ĩa vụ hợp đồng b ị vi ph ạm, tr ừ trường hợp quy định t ại Điều 266 c ủa Luật này.",
+      "filter": {
+        "chapter": "Chương Vii"
+      },
+      "article": 301
+    },
+    "hits": [
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 79,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 305",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-e20676bf5b7c4e1d",
+        "text": "Điều 305. Nghĩa vụ hạn chế tổn thất Bên yêu cầu bồi thường thiệt hại phải áp dụng các bi ện pháp hợp lý để hạn chế tổn thất kể cả tổn thất đối với khoản lợi trực tiếp đáng lẽ được hưởng do hành vi vi phạm hợp đồng gây ra; nếu bên yêu c ầu bồi thường thiệt hại không áp d ụng các bi ện pháp đó, bên vi ph ạm h ợp đồng có quy ền yêu c ầu giảm b ớt giá tr ị bồi thường thiệt hại bằng mức tổn thất đáng lẽ có thể hạn chế được.\n\nĐiều 306. Quyền yêu cầu tiền lãi do chậm thanh toán Trường h ợp bên vi ph ạm h ợp đồng ch ậm thanh toán ti ền hàng hay ch ậm thanh toán thù lao d ịch vụ và các chi phí hợp lý khác thì bên b ị vi phạm hợp đồng có quy ền yêu c ầu tr ả ti ền lãi trên s ố ti ền ch ậm tr ả đó theo lãi su ất n ợ quá h ạn trung bình trên th ị trường tại thời điểm thanh toán t ương ứng với thời gian ch ậm trả, trừ trường hợp có thoả thuận khác hoặc pháp luật có quy định khác.\n\nĐiều 307. Quan hệ giữa chế tài phạt vi phạm và chế tài bồi thường thiệt hại",
+        "score": 0.5724055464924553
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 78,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 300",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p78-paragraph-1000-dbde525f36a87242",
+        "text": "Điều 300. Phạt vi phạm Phạt vi ph ạm là vi ệc bên b ị vi ph ạm yêu c ầu bên vi ph ạm tr ả một kho ản tiền phạt do vi ph ạm hợp đồng nếu trong h ợp đồng có tho ả thuận, trừ các tr ường hợp miễn trách nhiệm quy định tại Điều 294 của Luật này.\n\nĐiều 301. Mức phạt vi phạm Mức phạt đối với vi ph ạm nghĩa vụ hợp đồng hoặc tổng mức phạt đối với nhiều vi phạm do các bên thoả thuận trong hợp đồng, nhưng không quá 8% giá trị phần ngh ĩa vụ hợp đồng b ị vi ph ạm, tr ừ trường hợp quy định t ại Điều 266 c ủa Luật này.\n\nĐiều 302. Bồi thường thiệt hại\n\n1. Bồi thường thiệt hại là vi ệc bên vi ph ạm bồi thường những tổn thất do hành vi vi phạm hợp đồng gây ra cho bên bị vi phạm.",
+        "score": 0.5665536574957479
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 79,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 308",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-36d656135ced3ca7",
+        "text": "1. Trường hợp các bên không có thỏa thuận phạt vi phạm thì bên bị vi phạm chỉ có quy ền yêu c ầu b ồi thường thiệt hại, trừ tr ường hợp Lu ật này có quy định khác.\n\n2. Trường h ợp các bên có th ỏa thuận ph ạt vi ph ạm thì bên b ị vi ph ạm có quyền áp d ụng cả chế tài ph ạt vi ph ạm và bu ộc bồi thường thiệt h ại, trừ trường hợp Luật này có quy định khác.\n\nĐiều 308. Tạm ngừng thực hiện hợp đồng Trừ các trường hợp miễn trách nhiệm quy định tại Điều 294 c ủa Luật này, tạm ngừng thực hiện hợp đồng là việc một bên tạm thời không thực hiện nghĩa vụ trong hợp đồng thuộc một trong các trường hợp sau đây:",
+        "score": 0.5432315084868228
+      }
+    ],
+    "hit1": false,
+    "hit3": true,
+    "strategy": "C",
+    "applied_filter": {
+      "chapter": "Chương Vii"
+    }
+  },
+  {
+    "question": {
+      "id": "q19",
+      "split": "test",
+      "question": "Nếu không có thỏa thuận, thời hạn khiếu nại về số lượng hàng hóa là bao lâu và tính từ đâu? Có ngoại lệ dẫn chiếu nào?",
+      "expected_answer": "Ba tháng kể từ ngày giao hàng; trừ trường hợp điểm đ khoản 1 Điều 237.",
+      "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+      "gold_page": 82,
+      "evidence_quote": "Thời hạn khiếu nại Trừ trường hợp quy định tại điểm đ khoản 1 Điều 237 c ủa Luật này, th ời hạn khiếu nại do các bên thỏa thuận, nếu các bên không có thoả thuận thì thời hạn khiếu nại được quy định như sau:\n\n1. Ba tháng, kể từ ngày giao hàng đối với khiếu nại về số lượng hàng hoá;",
+      "filter": {},
+      "article": 318
+    },
+    "hits": [
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 82,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 318",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-be6fd9d00bd363dd",
+        "text": "1. Thương lượng giữa các bên.\n\n2. Hoà gi ải giữa các bên do m ột cơ quan, t ổ chức ho ặc cá nhân được các bên thỏa thuận chọn làm trung gian hoà giải.\n\n3. Giải quyết tại Trọng tài hoặc Toà án. Thủ t ục giải quyết tranh ch ấp trong th ương m ại tại Trọng tài, Toà án được tiến hành theo các thủ tục tố tụng của Trọng tài, Toà án do pháp luật quy định.\n\nĐiều 318. Thời hạn khiếu nại Trừ trường hợp quy định tại điểm đ khoản 1 Điều 237 c ủa Luật này, th ời hạn khiếu nại do các bên thỏa thuận, nếu các bên không có thoả thuận thì thời hạn khiếu nại được quy định như sau:\n\n1. Ba tháng, kể từ ngày giao hàng đối với khiếu nại về số lượng hàng hoá;\n\n2. Sáu thá ng, kể từ ngày giao hàng đối với khiếu n ại về chất lượng hàng hoá; trong trường hợp hàng hoá có b ảo hành thì thời hạn khiếu nại là ba tháng, k",
+        "score": 0.6450109939427306
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 82,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 319",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-f293a1e60a84222a",
+        "text": "về chất lượng hàng hoá; trong trường hợp hàng hoá có b ảo hành thì thời hạn khiếu nại là ba tháng, kể từ ngày hết thời hạn bảo hành;\n\n3. Chín tháng, k ể từ ngày bên vi ph ạm phải hoàn thành ngh ĩa vụ theo h ợp đồng hoặc trong trường hợp có bảo hành thì kể từ ngày hết thời hạn bảo hành đối với khiếu nại về các vi phạm khác.\n\nĐiều 319. Thời hiệu khởi kiện Thời hiệu khởi kiện áp dụng đối với các tranh chấp thương mại là hai năm, kể từ thời điểm quyền và lợi ích hợp pháp b ị xâm phạm, trừ trường hợp quy định tại điểm e khoản 1 Điều 237 của Luật này.",
+        "score": 0.6415363572947298
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 8,
+        "year": 2005,
+        "chapter": "Chương Ii",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p8-fixed-800-100-58973d6eef4be94c",
+        "text": "nh, hàng hoá kinh doanh có điều kiện và điều kiện để được kinh doanh hàng hóa đó.\n\n2. Đối với hàng hoá hạn chế kinh doanh, hàng hoá kinh doanh có điều kiện, việc mua bán ch ỉ được thực hiện khi hàng hoá và các bên mua bán hàng hóa đáp ứng đầy đủ các điều kiện theo quy định của pháp luật.",
+        "score": 0.6109964198128878
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "strategy": "A",
+    "applied_filter": {}
+  },
+  {
+    "question": {
+      "id": "q19",
+      "split": "test",
+      "question": "Nếu không có thỏa thuận, thời hạn khiếu nại về số lượng hàng hóa là bao lâu và tính từ đâu? Có ngoại lệ dẫn chiếu nào?",
+      "expected_answer": "Ba tháng kể từ ngày giao hàng; trừ trường hợp điểm đ khoản 1 Điều 237.",
+      "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+      "gold_page": 82,
+      "evidence_quote": "Thời hạn khiếu nại Trừ trường hợp quy định tại điểm đ khoản 1 Điều 237 c ủa Luật này, th ời hạn khiếu nại do các bên thỏa thuận, nếu các bên không có thoả thuận thì thời hạn khiếu nại được quy định như sau:\n\n1. Ba tháng, kể từ ngày giao hàng đối với khiếu nại về số lượng hàng hoá;",
+      "filter": {},
+      "article": 318
+    },
+    "hits": [
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 82,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 318",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+        "text": "1. Thương lượng giữa các bên.\n\n2. Hoà gi ải giữa các bên do m ột cơ quan, t ổ chức ho ặc cá nhân được các bên thỏa thuận chọn làm trung gian hoà giải.\n\n3. Giải quyết tại Trọng tài hoặc Toà án. Thủ t ục giải quyết tranh ch ấp trong th ương m ại tại Trọng tài, Toà án được tiến hành theo các thủ tục tố tụng của Trọng tài, Toà án do pháp luật quy định.\n\nĐiều 318. Thời hạn khiếu nại Trừ trường hợp quy định tại điểm đ khoản 1 Điều 237 c ủa Luật này, th ời hạn khiếu nại do các bên thỏa thuận, nếu các bên không có thoả thuận thì thời hạn khiếu nại được quy định như sau:\n\n1. Ba tháng, kể từ ngày giao hàng đối với khiếu nại về số lượng hàng hoá;\n\n2. Sáu thá ng, kể từ ngày giao hàng đối với khiếu n ại về chất lượng hàng hoá; trong trường hợp hàng hoá có b ảo hành thì thời hạn khiếu nại là ba tháng, kể từ ngày hết thời hạn bảo hành;",
+        "score": 0.6542932467312808
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 51,
+        "year": 2005,
+        "chapter": "Chương Vi",
+        "article": "Điều 195",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p51-paragraph-1000-6558e399e4947d69",
+        "text": "Điều 195. Thông báo cho ng ười có quy ền lợi và ngh ĩa vụ liên quan đến hàng hóa là đối tượng cầm cố, thế chấp Trường hợp hàng hoá là đối tượng cầm cố, thế chấp, thì đồng thời với việc niêm yết đấu giá hàng hoá, người tổ chức đấu giá phải thông báo cho những người có quyền lợi và nghĩa vụ liên quan trong thời hạn chậm nhất là bảy ngày làm việc trước khi tiến hành bán đấu giá hàng hóa đó theo quy định tại Điều 197 của Luật này.\n\nĐiều 196. Thời hạn thông báo và niêm yết đấu giá hàng hoá\n\n1. Ch ậm nh ất là b ảy ngày làm vi ệc trước khi ti ến hành bán đấu giá hàng hoá, người tổ chức đấu giá phải niêm yết việc bán đấu giá tại nơi tổ chức đấu giá, nơi trưng bày hàng hoá và n ơi đặt trụ sở của người tổ chức đấu giá theo quy định tại Điều 197 của Luật này.\n\n2. Trường hợp người tổ chức đấu giá hàng hóa là ng ười bán hàng thì th ời hạn niêm yết đấu giá hàng hóa do người bán hàng tự quyết định.",
+        "score": 0.6062627364962224
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 77,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee",
+        "text": "1. Trong tr ường hợp bất khả kháng, các bên có th ể thoả thuận kéo dài th ời hạn thực hiện nghĩa vụ hợp đồng; nếu các bên không có tho ả thuận hoặc không thỏa thu ận được thì th ời h ạn th ực hi ện ngh ĩa v ụ h ợp đồng được tính thêm m ột thời gian b ằng thời gian x ảy ra trường hợp bất khả kháng cộng với thời gian hợp lý để khắc phục hậu quả, nhưng không được kéo dài quá các thời hạn sau đây:\n\na) N ăm tháng đối v ới hàng hoá, d ịch v ụ mà th ời h ạn giao hàng, cung ứng d ịch vụ được tho ả thuận không quá m ười hai tháng, k ể từ khi giao k ết hợp đồng;\n\nb) Tám tháng đối với hàng hoá, d ịch vụ mà th ời hạn giao hàng, cung ứng dịch vụ được thoả thuận trên mười hai tháng, kể từ khi giao kết hợp đồng.\n\n2. Trường hợp kéo dài quá các th ời hạn quy định tại khoản 1 Điều này, các bên có quyền từ chối thực hiện hợp đồng và không bên nào có quyền yêu cầu bên kia bồi thường thiệt hại.",
+        "score": 0.606109044712826
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "strategy": "B",
+    "applied_filter": {}
+  },
+  {
+    "question": {
+      "id": "q19",
+      "split": "test",
+      "question": "Nếu không có thỏa thuận, thời hạn khiếu nại về số lượng hàng hóa là bao lâu và tính từ đâu? Có ngoại lệ dẫn chiếu nào?",
+      "expected_answer": "Ba tháng kể từ ngày giao hàng; trừ trường hợp điểm đ khoản 1 Điều 237.",
+      "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+      "gold_page": 82,
+      "evidence_quote": "Thời hạn khiếu nại Trừ trường hợp quy định tại điểm đ khoản 1 Điều 237 c ủa Luật này, th ời hạn khiếu nại do các bên thỏa thuận, nếu các bên không có thoả thuận thì thời hạn khiếu nại được quy định như sau:\n\n1. Ba tháng, kể từ ngày giao hàng đối với khiếu nại về số lượng hàng hoá;",
+      "filter": {},
+      "article": 318
+    },
+    "hits": [
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 82,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 318",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+        "text": "1. Thương lượng giữa các bên.\n\n2. Hoà gi ải giữa các bên do m ột cơ quan, t ổ chức ho ặc cá nhân được các bên thỏa thuận chọn làm trung gian hoà giải.\n\n3. Giải quyết tại Trọng tài hoặc Toà án. Thủ t ục giải quyết tranh ch ấp trong th ương m ại tại Trọng tài, Toà án được tiến hành theo các thủ tục tố tụng của Trọng tài, Toà án do pháp luật quy định.\n\nĐiều 318. Thời hạn khiếu nại Trừ trường hợp quy định tại điểm đ khoản 1 Điều 237 c ủa Luật này, th ời hạn khiếu nại do các bên thỏa thuận, nếu các bên không có thoả thuận thì thời hạn khiếu nại được quy định như sau:\n\n1. Ba tháng, kể từ ngày giao hàng đối với khiếu nại về số lượng hàng hoá;\n\n2. Sáu thá ng, kể từ ngày giao hàng đối với khiếu n ại về chất lượng hàng hoá; trong trường hợp hàng hoá có b ảo hành thì thời hạn khiếu nại là ba tháng, kể từ ngày hết thời hạn bảo hành;",
+        "score": 0.6542932467312808
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 51,
+        "year": 2005,
+        "chapter": "Chương Vi",
+        "article": "Điều 195",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p51-paragraph-1000-6558e399e4947d69",
+        "text": "Điều 195. Thông báo cho ng ười có quy ền lợi và ngh ĩa vụ liên quan đến hàng hóa là đối tượng cầm cố, thế chấp Trường hợp hàng hoá là đối tượng cầm cố, thế chấp, thì đồng thời với việc niêm yết đấu giá hàng hoá, người tổ chức đấu giá phải thông báo cho những người có quyền lợi và nghĩa vụ liên quan trong thời hạn chậm nhất là bảy ngày làm việc trước khi tiến hành bán đấu giá hàng hóa đó theo quy định tại Điều 197 của Luật này.\n\nĐiều 196. Thời hạn thông báo và niêm yết đấu giá hàng hoá\n\n1. Ch ậm nh ất là b ảy ngày làm vi ệc trước khi ti ến hành bán đấu giá hàng hoá, người tổ chức đấu giá phải niêm yết việc bán đấu giá tại nơi tổ chức đấu giá, nơi trưng bày hàng hoá và n ơi đặt trụ sở của người tổ chức đấu giá theo quy định tại Điều 197 của Luật này.\n\n2. Trường hợp người tổ chức đấu giá hàng hóa là ng ười bán hàng thì th ời hạn niêm yết đấu giá hàng hóa do người bán hàng tự quyết định.",
+        "score": 0.6062627364962224
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 77,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee",
+        "text": "1. Trong tr ường hợp bất khả kháng, các bên có th ể thoả thuận kéo dài th ời hạn thực hiện nghĩa vụ hợp đồng; nếu các bên không có tho ả thuận hoặc không thỏa thu ận được thì th ời h ạn th ực hi ện ngh ĩa v ụ h ợp đồng được tính thêm m ột thời gian b ằng thời gian x ảy ra trường hợp bất khả kháng cộng với thời gian hợp lý để khắc phục hậu quả, nhưng không được kéo dài quá các thời hạn sau đây:\n\na) N ăm tháng đối v ới hàng hoá, d ịch v ụ mà th ời h ạn giao hàng, cung ứng d ịch vụ được tho ả thuận không quá m ười hai tháng, k ể từ khi giao k ết hợp đồng;\n\nb) Tám tháng đối với hàng hoá, d ịch vụ mà th ời hạn giao hàng, cung ứng dịch vụ được thoả thuận trên mười hai tháng, kể từ khi giao kết hợp đồng.\n\n2. Trường hợp kéo dài quá các th ời hạn quy định tại khoản 1 Điều này, các bên có quyền từ chối thực hiện hợp đồng và không bên nào có quyền yêu cầu bên kia bồi thường thiệt hại.",
+        "score": 0.606109044712826
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "strategy": "C",
+    "applied_filter": {}
+  },
+  {
+    "question": {
+      "id": "q20",
+      "split": "test",
+      "question": "Thời hiệu khởi kiện tranh chấp thương mại là bao lâu, tính từ khi nào và có ngoại lệ nào?",
+      "expected_answer": "Hai năm kể từ khi quyền và lợi ích hợp pháp bị xâm phạm, trừ điểm e khoản 1 Điều 237.",
+      "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+      "gold_page": 82,
+      "evidence_quote": "Thời hiệu khởi kiện Thời hiệu khởi kiện áp dụng đối với các tranh chấp thương mại là hai năm, kể từ thời điểm quyền và lợi ích hợp pháp b ị xâm phạm, trừ trường hợp quy định tại điểm e khoản 1 Điều 237 của Luật này.",
+      "filter": {},
+      "article": 319
+    },
+    "hits": [
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 82,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 319",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-f293a1e60a84222a",
+        "text": "về chất lượng hàng hoá; trong trường hợp hàng hoá có b ảo hành thì thời hạn khiếu nại là ba tháng, kể từ ngày hết thời hạn bảo hành;\n\n3. Chín tháng, k ể từ ngày bên vi ph ạm phải hoàn thành ngh ĩa vụ theo h ợp đồng hoặc trong trường hợp có bảo hành thì kể từ ngày hết thời hạn bảo hành đối với khiếu nại về các vi phạm khác.\n\nĐiều 319. Thời hiệu khởi kiện Thời hiệu khởi kiện áp dụng đối với các tranh chấp thương mại là hai năm, kể từ thời điểm quyền và lợi ích hợp pháp b ị xâm phạm, trừ trường hợp quy định tại điểm e khoản 1 Điều 237 của Luật này.",
+        "score": 0.6346905675086743
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 77,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p77-fixed-800-100-634ba470d8450066",
+        "text": "Trong tr ường hợp bất khả kháng, các bên có th ể thoả thuận kéo dài th ời hạn thực hiện nghĩa vụ hợp đồng; nếu các bên không có tho ả thuận hoặc không thỏa thu ận được thì th ời h ạn th ực hi ện ngh ĩa v ụ h ợp đồng được tính thêm m ột thời gian b ằng thời gian x ảy ra trường hợp bất khả kháng cộng với thời gian hợp lý để khắc phục hậu quả, nhưng không được kéo dài quá các thời hạn sau đây:\n\na) N ăm tháng đối v ới hàng hoá, d ịch v ụ mà th ời h ạn giao hàng, cung ứng d ịch vụ được tho ả thuận không quá m ười hai tháng, k ể từ khi giao k ết hợp đồng;\n\nb) Tám tháng đối với hàng hoá, d ịch vụ mà th ời hạn giao hàng, cung ứng dịch vụ được thoả thuận trên mười hai tháng, kể từ khi giao kết hợp đồng.\n\n2. Trường hợp kéo dài quá các th ời hạn quy định tại khoản 1 Điều này, các bên có quyền từ chố",
+        "score": 0.5412415953588237
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 82,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 318",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-be6fd9d00bd363dd",
+        "text": "1. Thương lượng giữa các bên.\n\n2. Hoà gi ải giữa các bên do m ột cơ quan, t ổ chức ho ặc cá nhân được các bên thỏa thuận chọn làm trung gian hoà giải.\n\n3. Giải quyết tại Trọng tài hoặc Toà án. Thủ t ục giải quyết tranh ch ấp trong th ương m ại tại Trọng tài, Toà án được tiến hành theo các thủ tục tố tụng của Trọng tài, Toà án do pháp luật quy định.\n\nĐiều 318. Thời hạn khiếu nại Trừ trường hợp quy định tại điểm đ khoản 1 Điều 237 c ủa Luật này, th ời hạn khiếu nại do các bên thỏa thuận, nếu các bên không có thoả thuận thì thời hạn khiếu nại được quy định như sau:\n\n1. Ba tháng, kể từ ngày giao hàng đối với khiếu nại về số lượng hàng hoá;\n\n2. Sáu thá ng, kể từ ngày giao hàng đối với khiếu n ại về chất lượng hàng hoá; trong trường hợp hàng hoá có b ảo hành thì thời hạn khiếu nại là ba tháng, k",
+        "score": 0.5399133838051899
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "strategy": "A",
+    "applied_filter": {}
+  },
+  {
+    "question": {
+      "id": "q20",
+      "split": "test",
+      "question": "Thời hiệu khởi kiện tranh chấp thương mại là bao lâu, tính từ khi nào và có ngoại lệ nào?",
+      "expected_answer": "Hai năm kể từ khi quyền và lợi ích hợp pháp bị xâm phạm, trừ điểm e khoản 1 Điều 237.",
+      "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+      "gold_page": 82,
+      "evidence_quote": "Thời hiệu khởi kiện Thời hiệu khởi kiện áp dụng đối với các tranh chấp thương mại là hai năm, kể từ thời điểm quyền và lợi ích hợp pháp b ị xâm phạm, trừ trường hợp quy định tại điểm e khoản 1 Điều 237 của Luật này.",
+      "filter": {},
+      "article": 319
+    },
+    "hits": [
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 82,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 319",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-7c39d75d39d020fb",
+        "text": "3. Chín tháng, k ể từ ngày bên vi ph ạm phải hoàn thành ngh ĩa vụ theo h ợp đồng hoặc trong trường hợp có bảo hành thì kể từ ngày hết thời hạn bảo hành đối với khiếu nại về các vi phạm khác.\n\nĐiều 319. Thời hiệu khởi kiện Thời hiệu khởi kiện áp dụng đối với các tranh chấp thương mại là hai năm, kể từ thời điểm quyền và lợi ích hợp pháp b ị xâm phạm, trừ trường hợp quy định tại điểm e khoản 1 Điều 237 của Luật này.",
+        "score": 0.6514003698270245
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 82,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 318",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+        "text": "1. Thương lượng giữa các bên.\n\n2. Hoà gi ải giữa các bên do m ột cơ quan, t ổ chức ho ặc cá nhân được các bên thỏa thuận chọn làm trung gian hoà giải.\n\n3. Giải quyết tại Trọng tài hoặc Toà án. Thủ t ục giải quyết tranh ch ấp trong th ương m ại tại Trọng tài, Toà án được tiến hành theo các thủ tục tố tụng của Trọng tài, Toà án do pháp luật quy định.\n\nĐiều 318. Thời hạn khiếu nại Trừ trường hợp quy định tại điểm đ khoản 1 Điều 237 c ủa Luật này, th ời hạn khiếu nại do các bên thỏa thuận, nếu các bên không có thoả thuận thì thời hạn khiếu nại được quy định như sau:\n\n1. Ba tháng, kể từ ngày giao hàng đối với khiếu nại về số lượng hàng hoá;\n\n2. Sáu thá ng, kể từ ngày giao hàng đối với khiếu n ại về chất lượng hàng hoá; trong trường hợp hàng hoá có b ảo hành thì thời hạn khiếu nại là ba tháng, kể từ ngày hết thời hạn bảo hành;",
+        "score": 0.5498758998872929
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 77,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee",
+        "text": "1. Trong tr ường hợp bất khả kháng, các bên có th ể thoả thuận kéo dài th ời hạn thực hiện nghĩa vụ hợp đồng; nếu các bên không có tho ả thuận hoặc không thỏa thu ận được thì th ời h ạn th ực hi ện ngh ĩa v ụ h ợp đồng được tính thêm m ột thời gian b ằng thời gian x ảy ra trường hợp bất khả kháng cộng với thời gian hợp lý để khắc phục hậu quả, nhưng không được kéo dài quá các thời hạn sau đây:\n\na) N ăm tháng đối v ới hàng hoá, d ịch v ụ mà th ời h ạn giao hàng, cung ứng d ịch vụ được tho ả thuận không quá m ười hai tháng, k ể từ khi giao k ết hợp đồng;\n\nb) Tám tháng đối với hàng hoá, d ịch vụ mà th ời hạn giao hàng, cung ứng dịch vụ được thoả thuận trên mười hai tháng, kể từ khi giao kết hợp đồng.\n\n2. Trường hợp kéo dài quá các th ời hạn quy định tại khoản 1 Điều này, các bên có quyền từ chối thực hiện hợp đồng và không bên nào có quyền yêu cầu bên kia bồi thường thiệt hại.",
+        "score": 0.5215705640179271
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "strategy": "B",
+    "applied_filter": {}
+  },
+  {
+    "question": {
+      "id": "q20",
+      "split": "test",
+      "question": "Thời hiệu khởi kiện tranh chấp thương mại là bao lâu, tính từ khi nào và có ngoại lệ nào?",
+      "expected_answer": "Hai năm kể từ khi quyền và lợi ích hợp pháp bị xâm phạm, trừ điểm e khoản 1 Điều 237.",
+      "gold_source_id": "luat-thuong-mai-36-2005-qh11",
+      "gold_page": 82,
+      "evidence_quote": "Thời hiệu khởi kiện Thời hiệu khởi kiện áp dụng đối với các tranh chấp thương mại là hai năm, kể từ thời điểm quyền và lợi ích hợp pháp b ị xâm phạm, trừ trường hợp quy định tại điểm e khoản 1 Điều 237 của Luật này.",
+      "filter": {},
+      "article": 319
+    },
+    "hits": [
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 82,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 319",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-7c39d75d39d020fb",
+        "text": "3. Chín tháng, k ể từ ngày bên vi ph ạm phải hoàn thành ngh ĩa vụ theo h ợp đồng hoặc trong trường hợp có bảo hành thì kể từ ngày hết thời hạn bảo hành đối với khiếu nại về các vi phạm khác.\n\nĐiều 319. Thời hiệu khởi kiện Thời hiệu khởi kiện áp dụng đối với các tranh chấp thương mại là hai năm, kể từ thời điểm quyền và lợi ích hợp pháp b ị xâm phạm, trừ trường hợp quy định tại điểm e khoản 1 Điều 237 của Luật này.",
+        "score": 0.6514003698270245
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 82,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "article": "Điều 318",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+        "text": "1. Thương lượng giữa các bên.\n\n2. Hoà gi ải giữa các bên do m ột cơ quan, t ổ chức ho ặc cá nhân được các bên thỏa thuận chọn làm trung gian hoà giải.\n\n3. Giải quyết tại Trọng tài hoặc Toà án. Thủ t ục giải quyết tranh ch ấp trong th ương m ại tại Trọng tài, Toà án được tiến hành theo các thủ tục tố tụng của Trọng tài, Toà án do pháp luật quy định.\n\nĐiều 318. Thời hạn khiếu nại Trừ trường hợp quy định tại điểm đ khoản 1 Điều 237 c ủa Luật này, th ời hạn khiếu nại do các bên thỏa thuận, nếu các bên không có thoả thuận thì thời hạn khiếu nại được quy định như sau:\n\n1. Ba tháng, kể từ ngày giao hàng đối với khiếu nại về số lượng hàng hoá;\n\n2. Sáu thá ng, kể từ ngày giao hàng đối với khiếu n ại về chất lượng hàng hoá; trong trường hợp hàng hoá có b ảo hành thì thời hạn khiếu nại là ba tháng, kể từ ngày hết thời hạn bảo hành;",
+        "score": 0.5498758998872929
+      },
+      {
+        "document_id": "luat-thuong-mai-36-2005-qh11",
+        "source": "https://ipvietnam.gov.vn/documents/20182/1226838/5.11.+Luat+Thuong+mai+2005.pdf/abd363d4-2646-48d5-a2db-4d42f231578e",
+        "page": 77,
+        "year": 2005,
+        "chapter": "Chương Vii",
+        "chunk_id": "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee",
+        "text": "1. Trong tr ường hợp bất khả kháng, các bên có th ể thoả thuận kéo dài th ời hạn thực hiện nghĩa vụ hợp đồng; nếu các bên không có tho ả thuận hoặc không thỏa thu ận được thì th ời h ạn th ực hi ện ngh ĩa v ụ h ợp đồng được tính thêm m ột thời gian b ằng thời gian x ảy ra trường hợp bất khả kháng cộng với thời gian hợp lý để khắc phục hậu quả, nhưng không được kéo dài quá các thời hạn sau đây:\n\na) N ăm tháng đối v ới hàng hoá, d ịch v ụ mà th ời h ạn giao hàng, cung ứng d ịch vụ được tho ả thuận không quá m ười hai tháng, k ể từ khi giao k ết hợp đồng;\n\nb) Tám tháng đối với hàng hoá, d ịch vụ mà th ời hạn giao hàng, cung ứng dịch vụ được thoả thuận trên mười hai tháng, kể từ khi giao kết hợp đồng.\n\n2. Trường hợp kéo dài quá các th ời hạn quy định tại khoản 1 Điều này, các bên có quyền từ chối thực hiện hợp đồng và không bên nào có quyền yêu cầu bên kia bồi thường thiệt hại.",
+        "score": 0.5215705640179271
+      }
+    ],
+    "hit1": true,
+    "hit3": true,
+    "strategy": "C",
+    "applied_filter": {}
+  }
+]

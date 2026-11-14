@@ -1,0 +1,998 @@
+{
+  "coherence_audit.json": [
+    {
+      "strategy": "A",
+      "page": 1,
+      "anchor": "Điều 1. Phạm vi điều chỉnh\n\n1.",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p1-fixed-800-100-6425bc4acd6bf5d6",
+      "score": 1,
+      "reason": "Đầu điều rõ nhưng cuối chunk dừng giữa khoản của Điều 2.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "page": 2,
+      "anchor": "Điều 3. Giải thích từ ngữ Tron",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p2-fixed-800-100-9f1fee9d19051d6b",
+      "score": 1,
+      "reason": "Đầu chunk tiếp nối trang trước, thiếu chủ thể; các định nghĩa sau vẫn hiểu được.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "page": 3,
+      "anchor": "Điều 4. Áp dụng Luật thương mạ",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p3-fixed-800-100-3a105495308e1948",
+      "score": 1,
+      "reason": "Có Điều 4 đầy đủ nhưng lẫn phần tiếp nối và phần Điều 5 chưa đủ.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "page": 4,
+      "anchor": "Điều 7. Nghĩa vụ đăng ký kinh ",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p4-fixed-800-100-af88f0560ef1fb99",
+      "score": 1,
+      "reason": "Bắt đầu bằng phần tiếp nối bảo hộ; Điều 7 đầy đủ nhưng đoạn Điều 8 chưa trọn.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "page": 5,
+      "anchor": "Điều 12. Nguyên t ắc á p d ụng",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p5-fixed-800-100-cd9b1c116248f197",
+      "score": 1,
+      "reason": "Đầu chunk thiếu phần trước của câu; nội dung điều sau chỉ hiểu một phần.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "page": 6,
+      "anchor": "Điều 17. Quyền của Văn phòng đ",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p6-fixed-800-100-ca89aba991115ff7",
+      "score": 1,
+      "reason": "Phần đầu thiếu ngữ cảnh trang trước; danh sách quyền chưa trọn.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "page": 7,
+      "anchor": "Điều 20. Nghĩa vụ của Chi nhán",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p7-fixed-800-100-2d125ea748011826",
+      "score": 1,
+      "reason": "Bắt đầu bằng khoản 3 không có tiêu đề điều; nghĩa vụ phía sau hiểu một phần.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "page": 8,
+      "anchor": "Điều 23. Chấm dứt hoạt động tạ",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p8-fixed-800-100-3e89976c2e9e0a29",
+      "score": 1,
+      "reason": "Đầu trang là câu tiếp nối; danh sách Điều 23 có ngữ cảnh nhưng phần cuối A bị cắt.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "page": 9,
+      "anchor": "Điều 26. Áp dụng biện pháp khẩ",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p9-fixed-800-100-f08c230d8de2cb67",
+      "score": 1,
+      "reason": "Điều 26 đủ, phần Điều 27/28 ở cuối chưa trọn.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "page": 10,
+      "anchor": "Điều 30. Chuyển khẩu hàng hoá\n",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p10-fixed-800-100-adba55b76cdb2bd9",
+      "score": 1,
+      "reason": "A cắt giữa điểm c; B giữ đủ Điều 30 từ định nghĩa, hình thức đến khoản 3.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "page": 1,
+      "anchor": "Điều 1. Phạm vi điều chỉnh\n\n1.",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p1-paragraph-1000-c800ca797f46cf6a",
+      "score": 1,
+      "reason": "Đầu điều rõ nhưng cuối chunk dừng giữa khoản của Điều 2.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "page": 2,
+      "anchor": "Điều 3. Giải thích từ ngữ Tron",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p2-paragraph-1000-d9e76259e32194ea",
+      "score": 1,
+      "reason": "Đầu chunk tiếp nối trang trước, thiếu chủ thể; các định nghĩa sau vẫn hiểu được.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "page": 3,
+      "anchor": "Điều 4. Áp dụng Luật thương mạ",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p3-paragraph-1000-99a00f32656f40ae",
+      "score": 1,
+      "reason": "Có Điều 4 đầy đủ nhưng lẫn phần tiếp nối và phần Điều 5 chưa đủ.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "page": 4,
+      "anchor": "Điều 7. Nghĩa vụ đăng ký kinh ",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p4-paragraph-1000-bd6f4fcc7fe6379b",
+      "score": 1,
+      "reason": "Bắt đầu bằng phần tiếp nối bảo hộ; Điều 7 đầy đủ nhưng đoạn Điều 8 chưa trọn.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "page": 5,
+      "anchor": "Điều 12. Nguyên t ắc á p d ụng",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p5-paragraph-1000-9b13bbd29b75c7d7",
+      "score": 1,
+      "reason": "Đầu chunk thiếu phần trước của câu; nội dung điều sau chỉ hiểu một phần.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "page": 6,
+      "anchor": "Điều 17. Quyền của Văn phòng đ",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p6-paragraph-1000-dcde253fd75c547e",
+      "score": 1,
+      "reason": "Phần đầu thiếu ngữ cảnh trang trước; danh sách quyền chưa trọn.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "page": 7,
+      "anchor": "Điều 20. Nghĩa vụ của Chi nhán",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p7-paragraph-1000-63150cea718b11fc",
+      "score": 1,
+      "reason": "Bắt đầu bằng khoản 3 không có tiêu đề điều; nghĩa vụ phía sau hiểu một phần.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "page": 8,
+      "anchor": "Điều 23. Chấm dứt hoạt động tạ",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p8-paragraph-1000-a28a8840d2541c86",
+      "score": 1,
+      "reason": "Đầu trang là câu tiếp nối; danh sách Điều 23 có ngữ cảnh nhưng phần cuối A bị cắt.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "page": 9,
+      "anchor": "Điều 26. Áp dụng biện pháp khẩ",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p9-paragraph-1000-3f6e4ce1a1f1cac5",
+      "score": 1,
+      "reason": "Điều 26 đủ, phần Điều 27/28 ở cuối chưa trọn.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "page": 10,
+      "anchor": "Điều 30. Chuyển khẩu hàng hoá\n",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p10-paragraph-1000-f8a8ba804726f73e",
+      "score": 2,
+      "reason": "A cắt giữa điểm c; B giữ đủ Điều 30 từ định nghĩa, hình thức đến khoản 3.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "page": 1,
+      "anchor": "Điều 1. Phạm vi điều chỉnh\n\n1.",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p1-paragraph-1000-c800ca797f46cf6a",
+      "score": 1,
+      "reason": "Đầu điều rõ nhưng cuối chunk dừng giữa khoản của Điều 2.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "page": 2,
+      "anchor": "Điều 3. Giải thích từ ngữ Tron",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p2-paragraph-1000-d9e76259e32194ea",
+      "score": 1,
+      "reason": "Đầu chunk tiếp nối trang trước, thiếu chủ thể; các định nghĩa sau vẫn hiểu được.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "page": 3,
+      "anchor": "Điều 4. Áp dụng Luật thương mạ",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p3-paragraph-1000-99a00f32656f40ae",
+      "score": 1,
+      "reason": "Có Điều 4 đầy đủ nhưng lẫn phần tiếp nối và phần Điều 5 chưa đủ.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "page": 4,
+      "anchor": "Điều 7. Nghĩa vụ đăng ký kinh ",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p4-paragraph-1000-bd6f4fcc7fe6379b",
+      "score": 1,
+      "reason": "Bắt đầu bằng phần tiếp nối bảo hộ; Điều 7 đầy đủ nhưng đoạn Điều 8 chưa trọn.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "page": 5,
+      "anchor": "Điều 12. Nguyên t ắc á p d ụng",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p5-paragraph-1000-9b13bbd29b75c7d7",
+      "score": 1,
+      "reason": "Đầu chunk thiếu phần trước của câu; nội dung điều sau chỉ hiểu một phần.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "page": 6,
+      "anchor": "Điều 17. Quyền của Văn phòng đ",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p6-paragraph-1000-dcde253fd75c547e",
+      "score": 1,
+      "reason": "Phần đầu thiếu ngữ cảnh trang trước; danh sách quyền chưa trọn.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "page": 7,
+      "anchor": "Điều 20. Nghĩa vụ của Chi nhán",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p7-paragraph-1000-63150cea718b11fc",
+      "score": 1,
+      "reason": "Bắt đầu bằng khoản 3 không có tiêu đề điều; nghĩa vụ phía sau hiểu một phần.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "page": 8,
+      "anchor": "Điều 23. Chấm dứt hoạt động tạ",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p8-paragraph-1000-a28a8840d2541c86",
+      "score": 1,
+      "reason": "Đầu trang là câu tiếp nối; danh sách Điều 23 có ngữ cảnh nhưng phần cuối A bị cắt.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "page": 9,
+      "anchor": "Điều 26. Áp dụng biện pháp khẩ",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p9-paragraph-1000-3f6e4ce1a1f1cac5",
+      "score": 1,
+      "reason": "Điều 26 đủ, phần Điều 27/28 ở cuối chưa trọn.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "page": 10,
+      "anchor": "Điều 30. Chuyển khẩu hàng hoá\n",
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p10-paragraph-1000-f8a8ba804726f73e",
+      "score": 2,
+      "reason": "A cắt giữa điểm c; B giữ đủ Điều 30 từ định nghĩa, hình thức đến khoản 3.",
+      "reviewer": "Codex semantic reading",
+      "student_confirmed": false
+    }
+  ],
+  "grounding_audit.json": [
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "score": 1,
+      "reason": "Có ví dụ lợi ích/tặng hàng trong khuyến mại nhưng thiếu định nghĩa Điều 88 và ngữ cảnh đầy đủ.",
+      "chunk_ids": [
+        "luat-thuong-mai-36-2005-qh11-p25-fixed-800-100-22318a04d303b4ef",
+        "luat-thuong-mai-36-2005-qh11-p28-fixed-800-100-a60e0f196cff6152",
+        "luat-thuong-mai-36-2005-qh11-p25-fixed-800-100-dfbdcce2326ec377"
+      ],
+      "reviewer": "Codex semantic reading of top-3",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "score": 1,
+      "reason": "Có ví dụ lợi ích/tặng hàng trong khuyến mại nhưng thiếu định nghĩa Điều 88 và ngữ cảnh đầy đủ.",
+      "chunk_ids": [
+        "luat-thuong-mai-36-2005-qh11-p25-paragraph-1000-a430d8b2b9e97370",
+        "luat-thuong-mai-36-2005-qh11-p28-paragraph-1000-892236c110872f95",
+        "luat-thuong-mai-36-2005-qh11-p27-paragraph-1000-5b865424c512ce8d"
+      ],
+      "reviewer": "Codex semantic reading of top-3",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "score": 1,
+      "reason": "Có ví dụ lợi ích/tặng hàng trong khuyến mại nhưng thiếu định nghĩa Điều 88 và ngữ cảnh đầy đủ.",
+      "chunk_ids": [
+        "luat-thuong-mai-36-2005-qh11-p25-paragraph-1000-a430d8b2b9e97370",
+        "luat-thuong-mai-36-2005-qh11-p28-paragraph-1000-892236c110872f95",
+        "luat-thuong-mai-36-2005-qh11-p27-paragraph-1000-5b865424c512ce8d"
+      ],
+      "reviewer": "Codex semantic reading of top-3",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "score": 2,
+      "reason": "A lấy đúng Điều 285 về hình thức văn bản; B/C chỉ lấy quyền/nghĩa vụ và định nghĩa nhượng quyền, không có hình thức hợp đồng.",
+      "chunk_ids": [
+        "luat-thuong-mai-36-2005-qh11-p74-fixed-800-100-2f3779ed3046c0da",
+        "luat-thuong-mai-36-2005-qh11-p74-fixed-800-100-f28fa7b4c8ebae6e",
+        "luat-thuong-mai-36-2005-qh11-p75-fixed-800-100-27709723d803c9fb"
+      ],
+      "reviewer": "Codex semantic reading of top-3",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "score": 0,
+      "reason": "A lấy đúng Điều 285 về hình thức văn bản; B/C chỉ lấy quyền/nghĩa vụ và định nghĩa nhượng quyền, không có hình thức hợp đồng.",
+      "chunk_ids": [
+        "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-95735999306358d6",
+        "luat-thuong-mai-36-2005-qh11-p74-paragraph-1000-e551af49a640366a",
+        "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-f45ca634948ddc66"
+      ],
+      "reviewer": "Codex semantic reading of top-3",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "score": 0,
+      "reason": "A lấy đúng Điều 285 về hình thức văn bản; B/C chỉ lấy quyền/nghĩa vụ và định nghĩa nhượng quyền, không có hình thức hợp đồng.",
+      "chunk_ids": [
+        "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-95735999306358d6",
+        "luat-thuong-mai-36-2005-qh11-p74-paragraph-1000-e551af49a640366a",
+        "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-f45ca634948ddc66"
+      ],
+      "reviewer": "Codex semantic reading of top-3",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "score": 2,
+      "reason": "Top-3 có mức 8% và ngoại lệ Điều 266; A phải hợp hai chunk ở trang 78 nên Hit@3 một chunk vẫn bằng 0.",
+      "chunk_ids": [
+        "luat-thuong-mai-36-2005-qh11-p79-fixed-800-100-3f4e394651d35bf3",
+        "luat-thuong-mai-36-2005-qh11-p78-fixed-800-100-0919d39a0f9c5413",
+        "luat-thuong-mai-36-2005-qh11-p78-fixed-800-100-fa8c59b58743ed2b"
+      ],
+      "reviewer": "Codex semantic reading of top-3",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "score": 2,
+      "reason": "Top-3 có mức 8% và ngoại lệ Điều 266; A phải hợp hai chunk ở trang 78 nên Hit@3 một chunk vẫn bằng 0.",
+      "chunk_ids": [
+        "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-e20676bf5b7c4e1d",
+        "luat-thuong-mai-36-2005-qh11-p78-paragraph-1000-dbde525f36a87242",
+        "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-36d656135ced3ca7"
+      ],
+      "reviewer": "Codex semantic reading of top-3",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "score": 2,
+      "reason": "Top-3 có mức 8% và ngoại lệ Điều 266; A phải hợp hai chunk ở trang 78 nên Hit@3 một chunk vẫn bằng 0.",
+      "chunk_ids": [
+        "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-e20676bf5b7c4e1d",
+        "luat-thuong-mai-36-2005-qh11-p78-paragraph-1000-dbde525f36a87242",
+        "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-36d656135ced3ca7"
+      ],
+      "reviewer": "Codex semantic reading of top-3",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "score": 2,
+      "reason": "Có mốc ba tháng, thời điểm giao hàng và ngoại lệ điểm đ khoản 1 Điều 237 ở trang 82.",
+      "chunk_ids": [
+        "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-be6fd9d00bd363dd",
+        "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-f293a1e60a84222a",
+        "luat-thuong-mai-36-2005-qh11-p8-fixed-800-100-58973d6eef4be94c"
+      ],
+      "reviewer": "Codex semantic reading of top-3",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "score": 2,
+      "reason": "Có mốc ba tháng, thời điểm giao hàng và ngoại lệ điểm đ khoản 1 Điều 237 ở trang 82.",
+      "chunk_ids": [
+        "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+        "luat-thuong-mai-36-2005-qh11-p51-paragraph-1000-6558e399e4947d69",
+        "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee"
+      ],
+      "reviewer": "Codex semantic reading of top-3",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "score": 2,
+      "reason": "Có mốc ba tháng, thời điểm giao hàng và ngoại lệ điểm đ khoản 1 Điều 237 ở trang 82.",
+      "chunk_ids": [
+        "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+        "luat-thuong-mai-36-2005-qh11-p51-paragraph-1000-6558e399e4947d69",
+        "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee"
+      ],
+      "reviewer": "Codex semantic reading of top-3",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "score": 2,
+      "reason": "Có hai năm, thời điểm quyền/lợi ích bị xâm phạm và ngoại lệ điểm e khoản 1 Điều 237 ở trang 82.",
+      "chunk_ids": [
+        "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-f293a1e60a84222a",
+        "luat-thuong-mai-36-2005-qh11-p77-fixed-800-100-634ba470d8450066",
+        "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-be6fd9d00bd363dd"
+      ],
+      "reviewer": "Codex semantic reading of top-3",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "score": 2,
+      "reason": "Có hai năm, thời điểm quyền/lợi ích bị xâm phạm và ngoại lệ điểm e khoản 1 Điều 237 ở trang 82.",
+      "chunk_ids": [
+        "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-7c39d75d39d020fb",
+        "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+        "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee"
+      ],
+      "reviewer": "Codex semantic reading of top-3",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "score": 2,
+      "reason": "Có hai năm, thời điểm quyền/lợi ích bị xâm phạm và ngoại lệ điểm e khoản 1 Điều 237 ở trang 82.",
+      "chunk_ids": [
+        "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-7c39d75d39d020fb",
+        "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+        "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee"
+      ],
+      "reviewer": "Codex semantic reading of top-3",
+      "student_confirmed": false
+    }
+  ],
+  "metadata_audit.json": [
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "rank": 1,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p25-fixed-800-100-22318a04d303b4ef",
+      "page": 25,
+      "chapter": "Chương Iv",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "rank": 2,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p28-fixed-800-100-a60e0f196cff6152",
+      "page": 28,
+      "chapter": "Chương Iv",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "rank": 3,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p25-fixed-800-100-dfbdcce2326ec377",
+      "page": 25,
+      "chapter": "Chương Iv",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "rank": 1,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p25-paragraph-1000-a430d8b2b9e97370",
+      "page": 25,
+      "chapter": "Chương Iv",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "rank": 2,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p28-paragraph-1000-892236c110872f95",
+      "page": 28,
+      "chapter": "Chương Iv",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "rank": 3,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p27-paragraph-1000-5b865424c512ce8d",
+      "page": 27,
+      "chapter": "Chương Iv",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "rank": 1,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p25-paragraph-1000-a430d8b2b9e97370",
+      "page": 25,
+      "chapter": "Chương Iv",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "rank": 2,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p28-paragraph-1000-892236c110872f95",
+      "page": 28,
+      "chapter": "Chương Iv",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "rank": 3,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p27-paragraph-1000-5b865424c512ce8d",
+      "page": 27,
+      "chapter": "Chương Iv",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "rank": 1,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p74-fixed-800-100-2f3779ed3046c0da",
+      "page": 74,
+      "chapter": "Chương Vi",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "rank": 2,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p74-fixed-800-100-f28fa7b4c8ebae6e",
+      "page": 74,
+      "chapter": "Chương Vi",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "rank": 3,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p75-fixed-800-100-27709723d803c9fb",
+      "page": 75,
+      "chapter": "Chương Vi",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "rank": 1,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-95735999306358d6",
+      "page": 75,
+      "chapter": "Chương Vi",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "rank": 2,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p74-paragraph-1000-e551af49a640366a",
+      "page": 74,
+      "chapter": "Chương Vi",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "rank": 3,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-f45ca634948ddc66",
+      "page": 75,
+      "chapter": "Chương Vi",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "rank": 1,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-95735999306358d6",
+      "page": 75,
+      "chapter": "Chương Vi",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "rank": 2,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p74-paragraph-1000-e551af49a640366a",
+      "page": 74,
+      "chapter": "Chương Vi",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "rank": 3,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p75-paragraph-1000-f45ca634948ddc66",
+      "page": 75,
+      "chapter": "Chương Vi",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "rank": 1,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p79-fixed-800-100-3f4e394651d35bf3",
+      "page": 79,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "rank": 2,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p78-fixed-800-100-0919d39a0f9c5413",
+      "page": 78,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "rank": 3,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p78-fixed-800-100-fa8c59b58743ed2b",
+      "page": 78,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "rank": 1,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-e20676bf5b7c4e1d",
+      "page": 79,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "rank": 2,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p78-paragraph-1000-dbde525f36a87242",
+      "page": 78,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "rank": 3,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-36d656135ced3ca7",
+      "page": 79,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "rank": 1,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-e20676bf5b7c4e1d",
+      "page": 79,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "rank": 2,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p78-paragraph-1000-dbde525f36a87242",
+      "page": 78,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "rank": 3,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p79-paragraph-1000-36d656135ced3ca7",
+      "page": 79,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "rank": 1,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-be6fd9d00bd363dd",
+      "page": 82,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "rank": 2,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-f293a1e60a84222a",
+      "page": 82,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "rank": 3,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p8-fixed-800-100-58973d6eef4be94c",
+      "page": 8,
+      "chapter": "Chương Ii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "rank": 1,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+      "page": 82,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "rank": 2,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p51-paragraph-1000-6558e399e4947d69",
+      "page": 51,
+      "chapter": "Chương Vi",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "rank": 3,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee",
+      "page": 77,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "rank": 1,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+      "page": 82,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "rank": 2,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p51-paragraph-1000-6558e399e4947d69",
+      "page": 51,
+      "chapter": "Chương Vi",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "rank": 3,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee",
+      "page": 77,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "rank": 1,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-f293a1e60a84222a",
+      "page": 82,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "rank": 2,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p77-fixed-800-100-634ba470d8450066",
+      "page": 77,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "rank": 3,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-fixed-800-100-be6fd9d00bd363dd",
+      "page": 82,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "rank": 1,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-7c39d75d39d020fb",
+      "page": 82,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "rank": 2,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+      "page": 82,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "rank": 3,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee",
+      "page": 77,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "rank": 1,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-7c39d75d39d020fb",
+      "page": 82,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "rank": 2,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p82-paragraph-1000-e492934e2d02ac23",
+      "page": 82,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "rank": 3,
+      "chunk_id": "luat-thuong-mai-36-2005-qh11-p77-paragraph-1000-ec9cd75f9726d7ee",
+      "page": 77,
+      "chapter": "Chương Vii",
+      "structural_valid": true,
+      "method": "Automated text/source/page validation; chapter checked against shared chapter regions",
+      "student_confirmed": false
+    }
+  ]
+}

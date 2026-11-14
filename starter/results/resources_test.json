@@ -1,0 +1,35 @@
+[
+  {
+    "strategy": "A",
+    "chunks": 295,
+    "characters": 203008,
+    "length_min": 27,
+    "length_median": 799,
+    "length_max": 800,
+    "ingest_seconds": 8.93249169999035,
+    "reingest_count": 295,
+    "note": "B/C reuse cached embeddings; time includes two snapshot writes; warm runs reuse all vectors"
+  },
+  {
+    "strategy": "B",
+    "chunks": 245,
+    "characters": 182492,
+    "length_min": 27,
+    "length_median": 848,
+    "length_max": 1000,
+    "ingest_seconds": 8.37759620003635,
+    "reingest_count": 245,
+    "note": "B/C reuse cached embeddings; time includes two snapshot writes; warm runs reuse all vectors"
+  },
+  {
+    "strategy": "C",
+    "chunks": 245,
+    "characters": 182492,
+    "length_min": 27,
+    "length_median": 848,
+    "length_max": 1000,
+    "ingest_seconds": 7.456663999997545,
+    "reingest_count": 245,
+    "note": "B/C reuse cached embeddings; time includes two snapshot writes; warm runs reuse all vectors"
+  }
+]

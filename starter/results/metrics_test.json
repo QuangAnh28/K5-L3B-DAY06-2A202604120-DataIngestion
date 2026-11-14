@@ -1,0 +1,23 @@
+[
+  {
+    "strategy": "A",
+    "split": "test",
+    "n": 5,
+    "hit1": 3,
+    "hit3": 3
+  },
+  {
+    "strategy": "B",
+    "split": "test",
+    "n": 5,
+    "hit1": 2,
+    "hit3": 3
+  },
+  {
+    "strategy": "C",
+    "split": "test",
+    "n": 5,
+    "hit1": 2,
+    "hit3": 3
+  }
+]

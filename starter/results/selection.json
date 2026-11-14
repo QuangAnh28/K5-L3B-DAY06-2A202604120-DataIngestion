@@ -1,0 +1,29 @@
+{
+  "selected": "C",
+  "reason": "Dev Hit@3, then Hit@1, then fewer chunks, then B",
+  "dev_metrics": [
+    {
+      "strategy": "A",
+      "split": "dev",
+      "n": 15,
+      "hit1": 3,
+      "hit3": 7
+    },
+    {
+      "strategy": "B",
+      "split": "dev",
+      "n": 15,
+      "hit1": 6,
+      "hit3": 10
+    },
+    {
+      "strategy": "C",
+      "split": "dev",
+      "n": 15,
+      "hit1": 7,
+      "hit3": 10
+    }
+  ],
+  "frozen_at": "2026-11-14T08:15:37.462727+00:00",
+  "test_seen_for_tuning": false
+}
